@@ -35,7 +35,7 @@ We make all of our code available for the reproducibility of the results. The co
  
  The code consists of four sets of experiments and their code:
  
- - [Part-1: Supported Period](): This code includes the dataset stats and the results of the initial analysis of the security updates dataset from all vendors.
+ - [Part-1: Supported Period](./Code/Part-1%20Supported%20Period.ipynb): This code includes the dataset stats and the results of the initial analysis of the security updates dataset from all vendors.
  - [Part-2: Unpatched Analysis](): This code includes the results of unpatched device analysis for all vendors.
  - [Factor Analysis](): This code includes the results for the impacting factor analysis.
  - [Key Issues](): The code here includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices. 
