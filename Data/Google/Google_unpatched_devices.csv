@@ -1,0 +1,21 @@
+codename,device,last_android_version,last_update_date
+cheetah,Pixel 7 Pro,13.0.0,2023-03-01
+panther,Pixel 7,13.0.0,2023-03-01
+bluejay,Pixel 6a,13.0.0,2023-03-01
+oriole,Pixel 6,13.0.0,2023-03-01
+raven,Pixel 6 Pro,13.0.0,2023-03-01
+barbet,Pixel 5a,13.0.0,2023-03-01
+redfin,Pixel 5,13.0.0,2023-03-01
+bramble,Pixel 4a (5G),13.0.0,2023-03-01
+sunfish,Pixel 4a,13.0.0,2023-03-01
+coral,Pixel 4 XL,13.0.0,2023-02-01
+flame,Pixel 4,13.0.0,2023-02-01
+bonito,Pixel 3a XL,12.1.0,2022-09-01
+sargo,Pixel 3a,12.1.0,2022-09-01
+crosshatch,Pixel 3 XL,12.0.0,2022-06-01
+blueline,Pixel 3,12.0.0,2022-06-01
+taimen,Pixel 2 XL,11.0.0,2020-12-01
+walleye,Pixel 2,11.0.0,2020-12-01
+marlin,Pixel XL,10.0.0,2019-12-01
+sailfish,Pixel,10.0.0,2019-12-01
+ryu,Pixel C,8.1.0,2019-06-01
