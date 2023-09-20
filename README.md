@@ -1,8 +1,6 @@
-# Android-Security-Support-Lifecycle-NDSS24
+# 50 Shades of Support: A Device-Centric Analysis of Android Security Updates
 
-# A Device-Centric Cross-Sectional Analysis of Android Security Support Lifecycle
-
-This repository contains the code and dataset used in the paper, "Lost in Delivery: A Device-Centric Cross-Sectional Analysis of Android Security Support Lifecycle", which is currently under review in NDSS24.
+This repository contains the code and dataset used in the paper, "50 Shades of Support: A Device-Centric Analysis of Android Security Updates".
 
 # 1. Data
 
@@ -26,8 +24,8 @@ The dataset in the paper is collected from official and open-source sources. The
  
  The following additional datasets are used: 
  - NIST CVE Database: We downloaded the list of all CVEs published between 2002-2023 through [the NIST database](https://nvd.nist.gov/vuln/data-feeds).
- - Knox Supported Devices: We used the models, platforms, device type, and the list of Android Enterprise Recommended (AER) devices published in [Knox supported device list](https://www.samsungknox.com/en/knox-platform/supported-devices) by Samsung.
- - AER-certified Devices: We used the list of [Android Enterprise Recommended (AER) devices](https://androidenterprisepartners.withgoogle.com/) by Google. 
+ - Samsung Knox Supported Devices: We used the models, platforms, device type, and the list of Android Enterprise Recommended (AER) devices published in [Knox supported device list](https://www.samsungknox.com/en/knox-platform/supported-devices) by Samsung.
+ - AER-certified Devices: We used the list of [Android Enterprise Recommended (AER) devices](https://androidenterprisepartners.withgoogle.com/) published by Google. 
  
  # 2. Code, Analysis, and Results
  
