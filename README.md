@@ -7,17 +7,17 @@ The dataset in the paper is collected from official and open-source sources. We 
 # 1. Data Collection
 
 ## Security Updates
-- **Samsung**: Samsung announces the availability of firmware for each <model,CSC> with a unique URL in the format: `https://doc.samsungmobile.com/<model>/<CSC>/doc.html`. For instance: [https://doc.samsungmobile.com/SM-G960U1/CHA/doc.html](https://doc.samsungmobile.com/SM-G960U1/CHA/doc.html). The `model` and `CSC` information can be retrieved from the device settings. To compile a comprehensive list, we generated all possible link combinations using the models from [Samsung's Knox supported device list](https://www.samsungknox.com/en/knox-platform/supported-devices) and [a community-compiled CSC list](https://tsar3000.com/list-of-samsung-csc-codes-samsung-firmware-csc-codes). We then queried the database for all potential model and CSC pairs. In total, we downloaded 354,165 security updates published between April 2015 and March 2023 pertaining to 275 unique devices .
+- **Samsung**: Samsung announces the availability of firmware for each <model,CSC> with a unique URL in the format: `https://doc.samsungmobile.com/<model>/<CSC>/doc.html`. For instance: [https://doc.samsungmobile.com/SM-G960U1/CHA/doc.html](https://doc.samsungmobile.com/SM-G960U1/CHA/doc.html). The `model` and `CSC` information can be retrieved from the device settings. To compile a comprehensive list, we generated all possible link combinations using the models from [Samsung's Knox-supported device list](https://www.samsungknox.com/en/knox-platform/supported-devices) and [a community-compiled CSC list](https://tsar3000.com/list-of-samsung-csc-codes-samsung-firmware-csc-codes). We then queried the database for all potential models and CSC pairs. In total, we downloaded 354,165 security updates published between April 2015 and March 2023 pertaining to 275 unique devices.
 
-- **Xiaomi**: Xiaomi releases firmware via an official API. We downloaded historical data from [a third-party website](https://github.com/XiaomiFirmwareUpdater/miui-updates-tracker/blob/master/data/latest.yml) that's been fetching official security updates every six hours since 2018. This dataset currently comprises 2,286 security updates, spanning from December 2014 to June 2023.
+- **Xiaomi**: Xiaomi releases firmware via an official API. We downloaded historical data from [a third-party website](https://github.com/XiaomiFirmwareUpdater/miui-updates-tracker/blob/master/data/latest.yml) that's been fetching official security updates every six hours since 2018. This dataset currently comprises 2,286 security updates from December 2014 to June 2023.
 
-- **Oppo**: Oppo updates firmware on their regional software update websites, e.g., [Updates for Oppo A11k in India](https://support.oppo.com/in/software-update). We constructed all possible country-device pairs, resulting in data from 1,144 pairs, totaling 9,416 security updates across 72 devices and 35 countries.
+- **Oppo**: Oppo updates the firmware on their regional software update websites, e.g., [Updates for Oppo A11k in India](https://support.oppo.com/in/software-update). We constructed all possible country-device pairs, resulting in data from 1,144 pairs, totaling 9,416 security updates across 72 devices and 35 countries.
 
 - **Google**: Google publishes firmware images for Pixel and Nexus devices on [a dedicated website](https://developers.google.com/android/images). We identified the security patch levels using [build numbers table](https://source.android.com/docs/setup/about/build-numbers).
 
 ## Support Lists
 
-- **Samsung**: Samsung's [list of supported devices](https://security.samsungmobile.com/workScope.smsb) distinguishes between devices receiving monthly, quarterly, biannual support, and wearable devices that get security updates. We downloaded 508 snapshots of this list from the [Wayback Machine](https://web.archive.org/web/20230401000000*/https://security.samsungmobile.com/workScope.smsb), ranging from October 2017 to March 2023, capturing 258 unique devices.
+- **Samsung**: Samsung's [list of supported devices](https://security.samsungmobile.com/workScope.smsb) distinguishes between devices receiving monthly, quarterly, and biannual support, and wearable devices that get security updates. We downloaded 508 snapshots of this list from the [Wayback Machine](https://web.archive.org/web/20230401000000*/https://security.samsungmobile.com/workScope.smsb), ranging from October 2017 to March 2023, capturing 258 unique devices.
 
 - **Xiaomi**: We downloaded Xiaomi's supported devices from [Wayback Machine](https://web.archive.org/web/20210501000000*/https:/www.mi.com/global/service/support/security-update.html) and EOL product list from [this dedicated page](https://trust.mi.com/misrc/updates/phone?tab=policy).
 
@@ -38,7 +38,7 @@ The dataset in the paper is collected from official and open-source sources. We 
 - **Chipsets**: We gathered the chipset information for the devices from [Samsung's website](https://www.samsung.com/us/smartphones/galaxy-s22-ultra/buy/galaxy-s22-ultra-128gb-unlocked-sm-s908uzkaxaa/) and augmented with data from partners like [carriers](https://www.t-mobile.com/cell-phone/samsung-galaxy-s22) for older devices.
 
 
- # 2. Code, Analysis, and Results
+ # 2. Analysis and Results
  
 We make all of our code available for the reproducibility of the results. The code includes the figures as well. To reproduce the results, one needs to install Jupyter Notebook and other required Python modules (e.g., pandas, numpy).
  
