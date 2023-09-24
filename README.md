@@ -1,32 +1,41 @@
 # 50 Shades of Support: A Device-Centric Analysis of Android Security Updates
 
-This repository contains the code and dataset used in the paper, "50 Shades of Support: A Device-Centric Analysis of Android Security Updates".
+This repository contains the data and code used in our paper, "50 Shades of Support: A Device-Centric Analysis of Android Security Updates".
 
-# 1. Data
+The dataset in the paper is collected from official and open-source sources. We put significant efforts into the collection of the dataset, which we offer to the research community for use. We also provide the code used for analysis alongside the results for the complete reproducibility of our study. 
 
-The dataset in the paper is collected from official and open-source sources. The list of datasets and data collection methodology are as follows:
+# 1. Data Collection
 
-## 1.1 Security Updates
+## Security Updates
+- **Samsung**: Samsung announces the availability of firmware for each <model,CSC> with a unique URL in the format: `https://doc.samsungmobile.com/<model>/<CSC>/doc.html`. For instance: [https://doc.samsungmobile.com/SM-G960U1/CHA/doc.html](https://doc.samsungmobile.com/SM-G960U1/CHA/doc.html). The `model` and `CSC` information can be retrieved from the device settings. To compile a comprehensive list, we generated all possible link combinations using the models from [Samsung's Knox supported device list](https://www.samsungknox.com/en/knox-platform/supported-devices) and [a community-compiled CSC list](https://tsar3000.com/list-of-samsung-csc-codes-samsung-firmware-csc-codes). We then queried the database for all potential model and CSC pairs. In total, we downloaded 354,165 security updates published between April 2015 and March 2023 pertaining to 275 unique devices .
 
- - Samsung Security Updates History: Samsung publishes the availability of firmware for each <model,CSC> with a unique URL in the format of https://doc.samsungmobile.com/<model>/<CSC>/doc.html. An example is [https://doc.samsungmobile.com/SM-G960U1/CHA/doc.html](https://doc.samsungmobile.com/SM-G960U1/CHA/doc.html). The model and CSC information can be obtained from the device settings. We created all combinations of the links using the models from [Samsung's knox supported device list](https://www.samsungknox.com/en/knox-platform/supported-devices) and [a community-compiled CSC list](https://tsar3000.com/list-of-samsung-csc-codes-samsung-firmware-csc-codes). We queried the database for all possible pairs. In total, we downloaded 354165 security updates belonging to 275 devices published between April 2015-March 2023.
+- **Xiaomi**: Xiaomi releases firmware via an official API. We downloaded historical data from [a third-party website](https://github.com/XiaomiFirmwareUpdater/miui-updates-tracker/blob/master/data/latest.yml) that's been fetching official security updates every six hours since 2018. This dataset currently comprises 2,286 security updates, spanning from December 2014 to June 2023.
 
- - Xioami Security Updates History: Xiaomi releases the latest available firmware via an official API. We downloaded the historical data from [a third-party website](https://github.com/XiaomiFirmwareUpdater/miui-updates-tracker/blob/master/data/latest.yml) that has been fetching the official security updates every six hours since 2018. In total, this dataset includes 2286 official security updates right now, spanning from December 2014 to June 2023.
+- **Oppo**: Oppo updates firmware on their regional software update websites, e.g., [Updates for Oppo A11k in India](https://support.oppo.com/in/software-update). We constructed all possible country-device pairs, resulting in data from 1,144 pairs, totaling 9,416 security updates across 72 devices and 35 countries.
 
- - Oppo Security Updates History: Oppo releases firmware updates in their regional software update website (e.g., [Updates for Oppo A11k used in India](https://support.oppo.com/in/software-update)). We constructed all country-device pairs. We collected security updates of 1144 pairs containing 9416 security updates for 72 devices used across 35 countries. 
+- **Google**: Google publishes firmware images for Pixel and Nexus devices on [a dedicated website](https://developers.google.com/android/images). We identified the security patch levels using [build numbers table](https://source.android.com/docs/setup/about/build-numbers).
 
- - Google Security Updates History: Google releases the firmware images for Pixel and Nexus devices in [a dedicated website](https://developers.google.com/android/images). We identified the security patch levels using [build numbers table](https://source.android.com/docs/setup/about/build-numbers).
+## Support Lists
 
- ## 1.2 Support Lists
- - Samsung Support List: Samsung publishes the [list of supported devices](https://security.samsungmobile.com/workScope.smsb). The lists include the devices receiving monthly, quarterly, and biannual support separately, and the wearable devices that receive security updates. We downloaded 508 snapshots of this list from [Wayback Machine](https://web.archive.org/web/20230401000000*/https://security.samsungmobile.com/workScope.smsb). Snapshot dates range from October 2017 to March 2023 with a total of 258 unique devices included.
- - Xiaomi Support List: Xiaomi publishes the list of supported devices on [a dedicated webpage](https://trust.mi.com/misrc/updates/phone?tab=policy).
- - Oppo Support List: Oppo publishes the list of supported devices in [a dedicated webpage]([https://trust.mi.com/misrc/updates/phone?tab=policy](https://security.oppo.com/en/mend)).
- - Google Support List: Google publishes the list of supported [Nexus](https://support.google.com/nexus/answer/11227897) and [Pixel](https://support.google.com/pixelphone/answer/4457705) devices on dedicated web pages.
- 
- The following additional datasets are used: 
- - NIST CVE Database: We downloaded the list of all CVEs published between 2002-2023 through [the NIST database](https://nvd.nist.gov/vuln/data-feeds).
- - Samsung Knox Supported Devices: We used the models, platforms, device type, and the list of Android Enterprise Recommended (AER) devices published in [Knox supported device list](https://www.samsungknox.com/en/knox-platform/supported-devices) by Samsung.
- - AER-certified Devices: We used the list of [Android Enterprise Recommended (AER) devices](https://androidenterprisepartners.withgoogle.com/) published by Google. 
- 
+- **Samsung**: Samsung's [list of supported devices](https://security.samsungmobile.com/workScope.smsb) distinguishes between devices receiving monthly, quarterly, biannual support, and wearable devices that get security updates. We downloaded 508 snapshots of this list from the [Wayback Machine](https://web.archive.org/web/20230401000000*/https://security.samsungmobile.com/workScope.smsb), ranging from October 2017 to March 2023, capturing 258 unique devices.
+
+- **Xiaomi**: We downloaded Xiaomi's supported devices from [Wayback Machine](https://web.archive.org/web/20210501000000*/https:/www.mi.com/global/service/support/security-update.html) and EOL product list from [this dedicated page](https://trust.mi.com/misrc/updates/phone?tab=policy).
+
+- **Oppo**: Oppo's list of supported devices can be found on [this page](https://security.oppo.com/en/mend).
+
+- **Google**: Supported [Nexus](https://support.google.com/nexus/answer/11227897) and [Pixel](https://support.google.com/pixelphone/answer/4457705) devices are presented on separate dedicated pages.
+
+**Additional Datasets**:
+
+- **NIST CVE Database**: We downloaded all CVEs and their additional information from 2002-2023 via [the NIST database](https://nvd.nist.gov/vuln/data-feeds).
+
+- **Samsung Knox Supported Devices**: We used models, platforms, device types, and Android Enterprise Recommended (AER) devices information from Samsung's [Knox device list](https://www.samsungknox.com/en/knox-platform/supported-devices).
+
+- **AER-certified Devices**: We downloaded the list of AER-certified devices from Google's [list of AER devices](https://androidenterprisepartners.withgoogle.com/).
+
+- **Android Security Bulletin**: We downloaded all [AOSP's security bulletin](https://source.android.com/docs/security/bulletin) and we used this lists to assign the CVEs to Android version for the risk analysis of unpatched devices. 
+
+
  # 2. Code, Analysis, and Results
  
 We make all of our code available for the reproducibility of the results. The code includes the figures as well. To reproduce the results, one needs to install Jupyter Notebook and other required Python modules (e.g., pandas, numpy).
