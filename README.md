@@ -4,6 +4,20 @@ This repository contains the data and code used in our paper, "50 Shades of Supp
 
 The dataset in the paper is collected from official and open-source sources. We put significant efforts into the collection of the dataset, which we offer to the research community for use. We also provide the code used for analysis alongside the results for the complete reproducibility of our study. 
 
+## Cite Our Work
+
+If you find our work useful, please consider citing our paper. Here is the BibTeX entry for our paper:
+
+```
+@inproceedings{anon2024fifty,
+    title={50 Shades of Support: A Device-Centric Analysis of Android Security Updates},
+    author={Author1, Anon and Author2, Anon and Author3, Anon},
+    booktitle={Network and Distributed System Security Symposium},
+    year={2024}
+}
+```
+
+
 # 1. Data Collection
 
 ## Security Updates
@@ -52,11 +66,15 @@ The dataset in the paper is collected from official and open-source sources. We 
 # 3. Analysis and Results
  
 Our code consists of five sets of experiments:
- - [Support Lists](./Code/Dataset%20(Support%20Lists).ipynb): This code includes the statistics about the support lists given in Section 3B. It is also used to extract the support type and support timeline of the devices, which is later used for evaluating the impact of support type presented in Section 6A. 
+ - [Support Lists](./Code/Dataset%20(Support%20Lists).ipynb): This code includes the statistics about the support lists given in Section 3B. It is also used to extract the support type and support timeline of the devices, which is later used for evaluating the impact of the support type presented in Section 6A. 
  - [Part-1: Supported Period](./Code/Part-1%20Supported%20Period.ipynb): This code includes the dataset stats reported in Section 3A and the results of the supported period analysis given in Section 4A.
- - [Part-2: Unpatched Analysis](./Code/Part-2%20Unpatched%20Analysis.ipynb): This code includes the results of unpatched device analysis for all vendors.
- - [Factor Analysis](./Code/Factor%20Analysis.ipynb): This code includes the results for the impacting factor analysis.
- - [Key Issues](./Code/Key-Issues.ipynb): The code here includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices. 
+ - [Part-2: Unpatched Analysis](./Code/Part-2%20Unpatched%20Analysis.ipynb): This code includes the results of unpatched device analysis given in Section 4B - Part-2: Unsupported Period. For the NIST CVE dataset used in this section, we refer to [the original website](https://nvd.nist.gov/vuln/data-feeds), in which the dataset can be directly downloaded.
+ - [Factor Analysis](./Code/Factor%20Analysis.ipynb): This code includes the results for the impacting factor analysis in Section 5.
+ - [Key Issues](./Code/Key-Issues.ipynb): The code here includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices given in Section 6.
+
+# Contact
+
+Please send an email to andsec87 (at) gmail (dot) com if you have any questions.
 
  
 
