@@ -41,15 +41,15 @@ If you find our work useful, please consider citing our paper. Here is the BibTe
 
 **Additional Datasets**:
 
-- **NIST CVE Database**: We downloaded all CVEs and their additional information from 2002-2023 via [the NIST database](https://nvd.nist.gov/vuln/data-feeds).
+- **NIST CVE Database**: We downloaded all CVEs and their additional information from 2002-2023 via [the NIST database](https://nvd.nist.gov/vuln/data-feeds). 
 
-- **Samsung Knox Supported Devices**: We used models, platforms, device types, and Android Enterprise Recommended (AER) devices information from Samsung's [Knox device list](https://www.samsungknox.com/en/knox-platform/supported-devices).
+- **Samsung Knox Supported Devices**: We used models, platforms, device types, and Android Enterprise Recommended (AER) devices information from Samsung's [Knox device list](https://www.samsungknox.com/en/knox-platform/supported-devices). The full list can be found [here](../Data/Samsung/knox-models-all.csv).
 
-- **AER-certified Devices**: We downloaded the list of AER-certified devices from Google's [list of AER devices](https://androidenterprisepartners.withgoogle.com/).
+- **AER-certified Devices**: We downloaded the list of AER-certified devices from Google's [list of AER devices](https://androidenterprisepartners.withgoogle.com/). The full list can be found [here](../Data/AER-devices-all-vendors.xlsx)
 
-- **Android Security Bulletin**: We downloaded all [AOSP's security bulletin](https://source.android.com/docs/security/bulletin) and we used these lists to assign the CVEs to the Android version for the risk analysis of unpatched devices. 
+- **Android Security Bulletin**: We downloaded all [AOSP's security bulletin](https://source.android.com/docs/security/bulletin) and we used these lists to assign the CVEs to the Android version for the risk analysis of unpatched devices. The full list can be found [here](../Data/AOSP-bulletins.csv)
 
-- **Chipsets**: We gathered the chipset information for the devices from [Samsung's website](https://www.samsung.com/us/smartphones/galaxy-s22-ultra/buy/galaxy-s22-ultra-128gb-unlocked-sm-s908uzkaxaa/) and augmented with data from partners like [carriers](https://www.t-mobile.com/cell-phone/samsung-galaxy-s22) for older devices.
+- **Chipsets**: We gathered the chipset information for the devices from [Samsung's website](https://www.samsung.com/us/smartphones/galaxy-s22-ultra/buy/galaxy-s22-ultra-128gb-unlocked-sm-s908uzkaxaa/) and augmented with data from partners like [carriers](https://www.t-mobile.com/cell-phone/samsung-galaxy-s22) for older devices. The full list can be found [here](../Data/chipsets.xlsx)
 
 
 # 2. Dataset Characteristics and Preprocessing
