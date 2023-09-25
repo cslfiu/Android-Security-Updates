@@ -38,11 +38,20 @@ The dataset in the paper is collected from official and open-source sources. We 
 - **Chipsets**: We gathered the chipset information for the devices from [Samsung's website](https://www.samsung.com/us/smartphones/galaxy-s22-ultra/buy/galaxy-s22-ultra-128gb-unlocked-sm-s908uzkaxaa/) and augmented with data from partners like [carriers](https://www.t-mobile.com/cell-phone/samsung-galaxy-s22) for older devices.
 
 
- # 2. Analysis and Results
+# 2. Dataset Characteristics and Preprocessing
+
+**Samsung**: Each Samsung security update contains the build number, android version, release date, and security patch level. We assigned each security update to the country-carrier via the CSC list and the device using the Knox-supported device list described above. The full list of security updates can be found [samsung-security-updates](../Data/Samsung/samsung-security-updates/). In total, we found unique 21461 `model-CSC` pairs containing 273 unique CSCs and 1073 models. After assigning, we found 97 countries and 109 carriers. Also, we found 275 unique devices (e.g., Galaxy S22) for all models (e.g., SM-970U). The release date of all updates ranges from April 2015 to March 2023.  
+
+**Xioami**: Xioami updates are specified for `model-region` pairs. The total list included 10 regions and 223 devices (combined using regional names). The full list can be found in [devices.yml](../Data/Xiaomi/devices.yml). We also downloaded the changelogs from [the same source](https://xiaomifirmwareupdater.com/miui/) and saved them in [devices.yml](../Data/Xiaomi/changelogs.csv). We included the resulting SPLs in the final list. 
+
+**Oppo**: We collected data from 1144 country-device pairs containing 9373 security updates for 72 devices used across 35 countries. Each firmware includes an update date, which we used as a release date. However, Oppo only releases the change log including the SPL for the latest release. Therefore, we downloaded firmware to extract the SPL from the configuration files. We included [the resulting SPLs](../Data/Oppo/firmware_SPLs.csv) from the downloaded firmware in our analysis. 
+
+**Google**: We only used 1110 full OTA images as we aim to characterize the updates received by the regular end user. We also excluded Nexus devices. In total, we included 20 Pixel devices in our analysis.
+
+
+# 3. Analysis and Results
  
-We make all of our code available for the reproducibility of the results. The code includes the figures as well. To reproduce the results, one needs to install Jupyter Notebook and other required Python modules (e.g., pandas, numpy).
- 
- The code consists of four sets of experiments and their code:
+Our code consists of five sets of experiments:
  
  - [Part-1: Supported Period](./Code/Part-1%20Supported%20Period.ipynb): This code includes the dataset stats and the results of the initial analysis of the security updates dataset from all vendors.
  - [Part-2: Unpatched Analysis](./Code/Part-2%20Unpatched%20Analysis.ipynb): This code includes the results of unpatched device analysis for all vendors.
@@ -50,7 +59,7 @@ We make all of our code available for the reproducibility of the results. The co
  - [Key Issues](./Code/Key-Issues.ipynb): The code here includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices. 
  - [Dataset (Support Lists)](./Code/Dataset%20(Support%20Lists).ipynb): This code includes the timeline extraction script and analysis of support lists. 
  
- 
+
  
 
  
