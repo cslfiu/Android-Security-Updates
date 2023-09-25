@@ -4,10 +4,6 @@ This repository contains the data and code used in our paper, "50 Shades of Supp
 
 The dataset in the paper is collected from official and open-source sources. We put significant efforts into the collection of the dataset, which we offer to the research community for use. We also provide the code used for analysis alongside the results for the complete reproducibility of our study. 
 
-## Prerequisite Installations
-Ensure you have [**Jupyter Notebook**](https://jupyter.org/install) installed, and Python libraries such as **Pandas**, **Numpy**, and others specified for each script.  
-
-
 # 1. Data Collection and Preprocessing
 
 ## Security Updates
@@ -44,6 +40,8 @@ Ensure you have [**Jupyter Notebook**](https://jupyter.org/install) installed, a
 
 
 # 2. Analysis and Results
+
+- **Prerequisite Installations**: Ensure you have [**Jupyter Notebook**](https://jupyter.org/install) installed, and Python modules such as **Pandas**, **Numpy**, and others specified for each script.  
  
 Our code consists of five sets of experiments:
  - [Support Lists](./Code/Dataset%20(Support%20Lists).ipynb): This code includes the statistics about the support lists given in Section 3B. It is also used to extract the support type and support timeline of the devices, which is later used for evaluating the impact of the support type presented in Section 6A. 
