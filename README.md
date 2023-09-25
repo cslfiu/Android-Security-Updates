@@ -68,7 +68,7 @@ If you find our work useful, please consider citing our paper. Here is the BibTe
 Our code consists of five sets of experiments:
  - [Support Lists](./Code/Dataset%20(Support%20Lists).ipynb): This code includes the statistics about the support lists given in Section 3B. It is also used to extract the support type and support timeline of the devices, which is later used for evaluating the impact of the support type presented in Section 6A. 
  - [Part-1: Supported Period](./Code/Part-1%20Supported%20Period.ipynb): This code includes the dataset stats reported in Section 3A and the results of the supported period analysis given in Section 4A.
- - [Part-2: Unpatched Analysis](./Code/Part-2%20Unpatched%20Analysis.ipynb): This code includes the results of unpatched device analysis given in Section 4B - Part-2: Unsupported Period. For the NIST CVE dataset used in this section, we refer to [the original website](https://nvd.nist.gov/vuln/data-feeds), in which the dataset can be directly downloaded.
+ - [Part-2: Unpatched Analysis](./Code/Part-2%20Unpatched%20Analysis.ipynb): This code includes the results of unpatched device analysis given in Section 4B - Part-2: Unsupported Period. For the NIST CVE dataset used in this section, we refer to [the original website](https://nvd.nist.gov/vuln/data-feeds), in which the dataset can be directly downloaded. (Download all the json file for all years under the [folder](..Data/NIST-all/).)
  - [Factor Analysis](./Code/Factor%20Analysis.ipynb): This code includes the results for the impacting factor analysis in Section 5.
  - [Key Issues](./Code/Key-Issues.ipynb): The code here includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices given in Section 6.
 
