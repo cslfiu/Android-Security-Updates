@@ -56,23 +56,23 @@ We  provide the code used for analysis alongside the results for the complete re
 
 Most results are displayed in the code given above. Additionally, the resulting figures are given under the [Figures](./Results/) folder. Finally, some interactive figures are given here: 
 
-## Monthly Support World Heatmaps:
-- [geolocation_monthly_count.html](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_count.html)
-- [geolocation_monthly_duration.html](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_duration.html)
-- [geolocation_monthly_frequency.html](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_frequency.html)
-- [geolocation_monthly_delay.html](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_delay.html)
+### Interactive Support World Heatmaps:
 
-## Quarterly Support World Heatmaps:
-- [geolocation_quarterly_count.html](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_count.html)
-- [geolocation_quarterly_duration.html](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_duration.html)
-- [geolocation_quarterly_frequency.html](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_frequency.html)
-- [geolocation_quarterly_delay.html](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_delay.html)
+These interactive heatmaps provide a comprehensive overview of Android security support across various timeframes. You can see patterns around the world, or check what's happening in your own country. **Feel free to explore the maps and see how your area compares in Android security support.**
 
-## Biannual Support World Heatmaps:
-- [geolocation_biannual_count.html](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_count.html)
-- [geolocation_biannual_duration.html](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_duration.html)
-- [geolocation_biannual_frequency.html](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_frequency.html)
-- [geolocation_biannual_delay.html](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_delay.html)
+- Monthly Geolocation Count: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_count.html)
+- Monthly Geolocation Duration: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_duration.html)
+- Monthly Geolocation Frequency: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_frequency.html)
+- Monthly Geolocation Delay: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_delay.html)
+- Quarterly Geolocation Count: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_count.html)
+- Quarterly Geolocation Duration: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_duration.html)
+- Quarterly Geolocation Frequency: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_frequency.html)
+- Quarterly Geolocation Delay: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_delay.html)
+- Biannual Geolocation Count: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_count.html)
+- Biannual Geolocation Duration: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_duration.html)
+- Biannual Geolocation Frequency: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_frequency.html)
+- Biannual Geolocation Delay: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_delay.html)
+
 
 
 ## Cite Our Work
