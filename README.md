@@ -19,7 +19,7 @@ The dataset in the paper is collected from official and open-source sources. We 
 
 ## Support Lists
 
-- **Samsung**: Samsung's [list of supported devices](https://security.samsungmobile.com/workScope.smsb) distinguishes between devices receiving monthly, quarterly, and biannual support, and wearable devices that get security updates. We downloaded 508 snapshots from [Wayback Machine](https://web.archive.org/web/20230401000000*/https://security.samsungmobile.com/workScope.smsb), ranging from October 2017 to March 2023, capturing 258 unique devices.
+- **Samsung**: Samsung's [list of supported devices](https://security.samsungmobile.com/workScope.smsb) distinguishes between devices receiving monthly, quarterly, and biannual support, and wearable devices that get security updates. We downloaded 508 snapshots from [Wayback Machine](https://web.archive.org/web/20230401000000*/https://security.samsungmobile.com/workScope.smsb), ranging from October 2017 to March 2023, capturing 258 unique devices. The snapshots can be found in the folder [samsung-support-lists](./Data/Samsung/samsung-support-lists/). Moreover, the extracted support timelines can be found [timelines_samsung_devices_v1.csv](./Data/Samsung/timelines_samsung_devices_v1.csv).
 
 - **Xiaomi**: We downloaded Xiaomi's supported devices from [Wayback Machine](https://web.archive.org/web/20210501000000*/https:/www.mi.com/global/service/support/security-update.html) and EOL product list from [this dedicated page](https://trust.mi.com/misrc/updates/phone?tab=policy).
 
