@@ -54,6 +54,36 @@ We  provide the code used for analysis alongside the results for the complete re
  - [Factor Analysis](./Code/Factor%20Analysis.ipynb): This code includes the results for the impacting factor analysis in Section 5.
  - [Key Issues](./Code/Key-Issues.ipynb): The code here includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices given in Section 6.
 
+Most results are displayed in the code given above. Additionally, the resulting figures are given under the [Figures](./Results/) folder. Finally, some interactive figures are given here: 
+
+## Monthly Support World Heatmaps:
+- [geolocation_monthly_count.html](https://andsec87.github.io/Android-Security-Updates/Results/Interactive%20Figures/geolocation_monthly_count.html)
+- [geolocation_monthly_duration.html](https://andsec87.github.io/Android-Security-Updates/Results/Interactive%20Figures/geolocation_monthly_duration.html)
+- [geolocation_monthly_frequency.html](https://andsec87.github.io/Android-Security-Updates/Results/Interactive%20Figures/geolocation_monthly_frequency.html)
+- [geolocation_monthly_delay.html](https://andsec87.github.io/Android-Security-Updates/Results/Interactive%20Figures/geolocation_monthly_delay.html)
+
+## Quarterly Support World Heatmaps:
+- [geolocation_quarterly_count.html](https://andsec87.github.io/Android-Security-Updates/Results/Interactive%20Figures/geolocation_quarterly_count.html)
+- [geolocation_quarterly_duration.html](https://andsec87.github.io/Android-Security-Updates/Results/Interactive%20Figures/geolocation_quarterly_duration.html)
+- [geolocation_quarterly_frequency.html](https://andsec87.github.io/Android-Security-Updates/Results/Interactive%20Figures/geolocation_quarterly_frequency.html)
+- [geolocation_quarterly_delay.html](https://andsec87.github.io/Android-Security-Updates/Results/Interactive%20Figures/geolocation_quarterly_delay.html)
+
+## Biannual Support World Heatmaps:
+- [geolocation_biannual_count.html](https://andsec87.github.io/Android-Security-Updates/Results/Interactive%20Figures/geolocation_biannual_count.html)
+- [geolocation_biannual_duration.html](https://andsec87.github.io/Android-Security-Updates/Results/Interactive%20Figures/geolocation_biannual_duration.html)
+- [geolocation_biannual_frequency.html](https://andsec87.github.io/Android-Security-Updates/Results/Interactive%20Figures/geolocation_biannual_frequency.html)
+- [geolocation_biannual_delay.html](https://andsec87.github.io/Android-Security-Updates/Results/Interactive%20Figures/geolocation_biannual_delay.html)
+
+
+Major OS upgrades:
+- [major_os_by_components_1.html](https://andsec87.github.io/Android-Security-Support-Lifecycle/Results/Interactive%20Figures/major_os_by_components_1.html)
+- [major_os_by_components_2.html](https://andsec87.github.io/Android-Security-Support-Lifecycle/Results/Interactive%20Figures/major_os_by_components_2.html)
+- [major_os_by_CVEtype.html](https://andsec87.github.io/Android-Security-Support-Lifecycle/Results/Interactive%20Figures/major_os_by_CVEtype.html)
+- [major_os_by_severity.html](https://andsec87.github.io/Android-Security-Support-Lifecycle/Results/Interactive%20Figures/major_os_by_severity.html)
+
+Mainline updates:
+- [mainline_by_components.html](https://andsec87.github.io/Android-Security-Support-Lifecycle/Results/Interactive%20Figures/mainline_by_components.html)
+
 ## Cite Our Work
 
 If you find our work useful, please consider citing our paper. Here is the BibTeX entry for our paper:
