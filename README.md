@@ -52,12 +52,12 @@ The dataset in the paper is collected from official and open-source sources. We 
 # 3. Analysis and Results
  
 Our code consists of five sets of experiments:
- 
- - [Part-1: Supported Period](./Code/Part-1%20Supported%20Period.ipynb): This code includes the dataset stats and the results of the initial analysis of the security updates dataset from all vendors.
+ - [Support Lists](./Code/Dataset%20(Support%20Lists).ipynb): This code includes the statistics about the support lists given in Section 3B. It is also used to extract the support type and support timeline of the devices, which is later used for evaluating the impact of support type presented in Section 6A. 
+ - [Part-1: Supported Period](./Code/Part-1%20Supported%20Period.ipynb): This code includes the dataset stats reported in Section 3A and the results of the supported period analysis given in Section 4A.
  - [Part-2: Unpatched Analysis](./Code/Part-2%20Unpatched%20Analysis.ipynb): This code includes the results of unpatched device analysis for all vendors.
  - [Factor Analysis](./Code/Factor%20Analysis.ipynb): This code includes the results for the impacting factor analysis.
  - [Key Issues](./Code/Key-Issues.ipynb): The code here includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices. 
- - [Dataset (Support Lists)](./Code/Dataset%20(Support%20Lists).ipynb): This code includes the timeline extraction script and analysis of support lists. 
+
  
 
  
