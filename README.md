@@ -22,7 +22,7 @@ Ensure you have [**Jupyter Notebook**](https://jupyter.org/install) installed, a
 
 ## Support Lists
 
-- **Samsung**: Samsung's [list of supported devices](https://security.samsungmobile.com/workScope.smsb) distinguishes between devices receiving monthly, quarterly, and biannual support, and wearable devices that get security updates. We downloaded 508 snapshots of this list from the [Wayback Machine](https://web.archive.org/web/20230401000000*/https://security.samsungmobile.com/workScope.smsb), ranging from October 2017 to March 2023, capturing 258 unique devices.
+- **Samsung**: Samsung's [list of supported devices](https://security.samsungmobile.com/workScope.smsb) distinguishes between devices receiving monthly, quarterly, and biannual support, and wearable devices that get security updates. We downloaded 508 snapshots from [Wayback Machine](https://web.archive.org/web/20230401000000*/https://security.samsungmobile.com/workScope.smsb), ranging from October 2017 to March 2023, capturing 258 unique devices.
 
 - **Xiaomi**: We downloaded Xiaomi's supported devices from [Wayback Machine](https://web.archive.org/web/20210501000000*/https:/www.mi.com/global/service/support/security-update.html) and EOL product list from [this dedicated page](https://trust.mi.com/misrc/updates/phone?tab=policy).
 
@@ -32,15 +32,15 @@ Ensure you have [**Jupyter Notebook**](https://jupyter.org/install) installed, a
 
 **Additional Datasets**:
 
-- **NIST CVE Database**: We downloaded all CVEs and their additional information from 2002-2023 via [the NIST database](https://nvd.nist.gov/vuln/data-feeds). 
+- **NIST CVE Database**: We downloaded all CVEs and their additional information from 2002-2023 via [NIST database](https://nvd.nist.gov/vuln/data-feeds). 
 
 - **Samsung Knox Supported Devices**: We used models, platforms, device types, and Android Enterprise Recommended (AER) devices information from Samsung's [Knox device list](https://www.samsungknox.com/en/knox-platform/supported-devices). The full list can be found in [knox-models-all.csv](../Data/Samsung/knox-models-all.csv).
 
-- **AER-certified Devices**: We downloaded the list of AER-certified devices from Google's [list of AER devices](https://androidenterprisepartners.withgoogle.com/). The full list can be found [here](../Data/AER-devices-all-vendors.xlsx)
+- **AER-certified Devices**: We downloaded the list of AER-certified devices from Google's [list of AER devices](https://androidenterprisepartners.withgoogle.com/). The full list can be found [here](../Data/AER-devices-all-vendors.xlsx).
 
-- **Android Security Bulletin**: We downloaded all [AOSP's security bulletin](https://source.android.com/docs/security/bulletin) and we used these lists to assign the CVEs to the Android version for the risk analysis of unpatched devices. The full list can be found in [AOSP-bulletins.csv](../Data/AOSP-bulletins.csv)
+- **Android Security Bulletin**: We downloaded all [AOSP's security bulletin](https://source.android.com/docs/security/bulletin) and we used these lists to assign the CVEs to the Android version for the risk analysis of unpatched devices. The full list can be found in [AOSP-bulletins.csv](../Data/AOSP-bulletins.csv).
 
-- **Chipsets**: We gathered the chipset information for the devices from [Samsung's website](https://www.samsung.com/us/smartphones/galaxy-s22-ultra/buy/galaxy-s22-ultra-128gb-unlocked-sm-s908uzkaxaa/) and augmented with data from partners like [carriers](https://www.t-mobile.com/cell-phone/samsung-galaxy-s22) for older devices. The chipset information for all devices can be found [chipsets.xlsx](../Data/chipsets.xlsx)
+- **Chipsets**: We gathered the chipset information for the devices from [Samsung's website](https://www.samsung.com/us/smartphones/galaxy-s22-ultra/buy/galaxy-s22-ultra-128gb-unlocked-sm-s908uzkaxaa/) and augmented with data from partners like [carriers](https://www.t-mobile.com/cell-phone/samsung-galaxy-s22) for older devices. The chipset information for all devices can be found [chipsets.xlsx](../Data/chipsets.xlsx).
 
 
 # 2. Analysis and Results
