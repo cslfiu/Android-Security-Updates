@@ -2,7 +2,7 @@
 
 This repository contains the data and code used in our paper, "50 Shades of Support: A Device-Centric Analysis of Android Security Updates".
 
-In the first step, we explain the data collection and preprocessing. In the second step, we provide the code for the analysis and results. Data collected during the first step is shared under the folder [Data](./Data/). For the reproducibility of the results, you can directly start from the second step. 
+In the first step, we explain the data collection and preprocessing. In the second step, we provide the code for the analysis and results. Data collected during the first step is shared under the folder [Data](https://github.com/andsec87/Android-Security-Updates/tree/main/Data). For the reproducibility of the results, you can directly start from the second step. 
 
 # 1. Data Collection and Preprocessing
 
@@ -48,13 +48,13 @@ The dataset in the paper is collected from official and open-source sources. We 
 
 We  provide the code used for analysis alongside the results for the complete reproducibility of our study. Our code consists of five sets of experiments:
 
- - [Support Lists](./Code/Dataset%20(Support%20Lists).ipynb): This code includes the statistics about the support lists given in Section 3B. It is also used to extract the support type and support timeline of the devices, which is later used for evaluating the impact of the support type presented in Section 6A. 
+ - [Support Lists](./Code/Support%20Lists.ipynb): This code includes the statistics about the support lists given in Section 3B. It is also used to extract the support type and support timeline of the devices, which is later used for evaluating the impact of the support type presented in Section 6A. 
  - [Part-1: Supported Period](./Code/Part-1%20Supported%20Period.ipynb): This code includes the dataset stats reported in Section 3A and the results of the supported period analysis given in Section 4A.
  - [Part-2: Unpatched Analysis](./Code/Part-2%20Unpatched%20Analysis.ipynb): This code includes the results of unpatched device analysis given in Section 4B - Part-2: Unsupported Period. 
  - [Factor Analysis](./Code/Factor%20Analysis.ipynb): This code includes the results for the impacting factor analysis in Section 5.
  - [Key Issues](./Code/Key-Issues.ipynb): The code here includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices given in Section 6.
 
-Most results are displayed in the code given above. Additionally, the resulting figures are given under the [Figures](./Results/) folder. Finally, some interactive figures are given here: 
+Most results are displayed in the code given above. Additionally, the resulting figures are given under the [Figures](https://github.com/andsec87/Android-Security-Updates/tree/main/Results) folder. Finally, some interactive figures are given here: 
 
 ### Interactive Support World Heatmaps:
 
