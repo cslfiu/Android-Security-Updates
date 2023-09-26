@@ -44,17 +44,19 @@ The dataset in the paper is collected from official and open-source sources. We 
 
 **Prerequisite Installations**: Ensure you have [**Jupyter Notebook**](https://jupyter.org/install) installed, and Python modules such as **Pandas**, **Numpy**, and others specified for each script.  
 
-**Download**: For the NIST CVE dataset used in the unpatched analysis section, we refer to [the original website](https://nvd.nist.gov/vuln/data-feeds), in which the dataset can be directly downloaded. (Download the JSON files of all years under the [folder](./Data/NIST-all/).)
+**Download**: For the NIST CVE dataset used in the unpatched analysis section, we refer to [the original website](https://nvd.nist.gov/vuln/data-feeds), in which the dataset can be directly downloaded. (Download the JSON files of all years under the [/Data/NIST-all/](./Data/NIST-all/) folder.)
 
 We  provide the code used for analysis alongside the results for the complete reproducibility of our study. Our code consists of five sets of experiments:
 
  1. [Support-Lists](./Code/1-Support-Lists.ipynb): This code includes the statistics about the support lists given in Section 3B. It is also used to extract the support type and support timeline of the devices, which is later used for evaluating the impact of the support type presented in Section 6A. 
- 2. [Part-1-Supported-Period](./Code/2-Part-1-Supported-Period.ipynb): This code includes the dataset stats reported in Section 3A and the results of the supported period analysis given in Section 4A.
- 3. [Part-2-Unpatched-Analysis](./Code/3-Part-2-Unpatched-Analysis.ipynb): This code includes the results of unpatched device analysis given in Section 4B - Part-2: Unsupported Period. 
+ 2. [Supported-Period](./Code/2-Part-1-Supported-Period.ipynb): This code includes the dataset stats reported in Section 3A and the results of the supported period analysis given in Section 4A.
+ 3. [Unpatched-Analysis](./Code/3-Part-2-Unpatched-Analysis.ipynb): This code includes the results of unpatched device analysis given in Section 4B - Part-2: Unsupported Period. 
  4. [Factor-Analysis](./Code/4-Factor-Analysis.ipynb): This code includes the results for the impacting factor analysis in Section 5.
  5. [Key-Issues](./Code/5-Key-Issues.ipynb): The code here includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices given in Section 6.
 
-Most results are displayed in the code given above. Additionally, the resulting figures are given under the [Figures](https://github.com/andsec87/Android-Security-Updates/tree/main/Results) folder. Finally, some interactive figures are given here: 
+**Note**: It is recommended to run the scripts in the order provided. However, if changing the sequence, ensure you execute 1 before 4, and 2 before 3, as some data from the former scripts is used for the latter ones.
+
+Most results are displayed in the code given above. Additionally, the resulting figures are automatically saved under the [Figures](https://github.com/andsec87/Android-Security-Updates/tree/main/Results) after running experiments. Finally, some interactive figures are given here: 
 
 ### Interactive Support World Heatmaps:
 
