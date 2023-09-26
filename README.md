@@ -48,11 +48,11 @@ The dataset in the paper is collected from official and open-source sources. We 
 
 We  provide the code used for analysis alongside the results for the complete reproducibility of our study. Our code consists of five sets of experiments:
 
- - [Support Lists](./Code/1-Support-Lists.ipynb): This code includes the statistics about the support lists given in Section 3B. It is also used to extract the support type and support timeline of the devices, which is later used for evaluating the impact of the support type presented in Section 6A. 
- - [Part-1: Supported Period](./Code/2-Part-1-Supported-Period.ipynb): This code includes the dataset stats reported in Section 3A and the results of the supported period analysis given in Section 4A.
- - [Part-2: Unpatched Analysis](./Code/3-Part-2-Unpatched-Analysis.ipynb): This code includes the results of unpatched device analysis given in Section 4B - Part-2: Unsupported Period. 
- - [Factor Analysis](./Code/4-Factor-Analysis.ipynb): This code includes the results for the impacting factor analysis in Section 5.
- - [Key Issues](./Code/5-Key-Issues.ipynb): The code here includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices given in Section 6.
+ 1. [Support-Lists](./Code/1-Support-Lists.ipynb): This code includes the statistics about the support lists given in Section 3B. It is also used to extract the support type and support timeline of the devices, which is later used for evaluating the impact of the support type presented in Section 6A. 
+ 2. [Part-1-Supported-Period](./Code/2-Part-1-Supported-Period.ipynb): This code includes the dataset stats reported in Section 3A and the results of the supported period analysis given in Section 4A.
+ 3. [Part-2-Unpatched-Analysis](./Code/3-Part-2-Unpatched-Analysis.ipynb): This code includes the results of unpatched device analysis given in Section 4B - Part-2: Unsupported Period. 
+ 4. [Factor-Analysis](./Code/4-Factor-Analysis.ipynb): This code includes the results for the impacting factor analysis in Section 5.
+ 5. [Key-Issues](./Code/5-Key-Issues.ipynb): The code here includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices given in Section 6.
 
 Most results are displayed in the code given above. Additionally, the resulting figures are given under the [Figures](https://github.com/andsec87/Android-Security-Updates/tree/main/Results) folder. Finally, some interactive figures are given here: 
 
