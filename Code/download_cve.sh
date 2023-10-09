@@ -1,11 +1,7 @@
 #!/bin/bash
 
 # Directory to save the files
-<<<<<<< HEAD
-DEST_DIR="../Data/NIST-all"
-=======
 DEST_DIR="./Data/NIST-all"
->>>>>>> my-new-branch
 BASE_URL="https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-"
 CURRENT_YEAR=$(date +"%Y")
 
