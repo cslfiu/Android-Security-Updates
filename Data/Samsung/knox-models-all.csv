@@ -1,0 +1,1428 @@
+device,device_type,platform,knox_version,AER,model
+Galaxy A04s,smartphone,Knox,3.8,FALSE,SM-A047F
+Galaxy A04s,smartphone,Knox,3.8,FALSE,SM-A047M
+Galaxy A12,smartphone,Knox,3.8,FALSE,SM-A127M
+Galaxy A12,smartphone,Knox,3.8,FALSE,SM-A127F
+Galaxy A13,smartphone,Knox,3.8,FALSE,SM-A135F
+Galaxy A13,smartphone,Knox,3.8,FALSE,SM-A135U
+Galaxy A13,smartphone,Knox,3.8,FALSE,SM-A135U1
+Galaxy A13,smartphone,Knox,3.8,FALSE,SM-A135M
+Galaxy A13,smartphone,Knox,3.8,FALSE,SM-A135N
+Galaxy A13,smartphone,Knox,3.8,FALSE,SM-A137F
+Galaxy A13 5G,smartphone,Knox,3.8,FALSE,SM-A136U
+Galaxy A13 5G,smartphone,Knox,3.8,FALSE,SM-A136U1
+Galaxy A13 5G,smartphone,Knox,3.8,FALSE,SM-A136W
+Galaxy A13 5G,smartphone,Knox,3.8,FALSE,SM-S136DL
+Galaxy A13 5G,smartphone,Knox,3.8,FALSE,SM-A136B
+Galaxy A13 5G,smartphone,Knox,3.8,FALSE,SM-A136S
+Galaxy A13 5G,smartphone,Knox,3.8,FALSE,SM-A136M
+Galaxy A21,smartphone,Knox,3.8,FALSE,SM-A217N
+Galaxy A21,smartphone,Knox,3.8,FALSE,SM-A217M
+Galaxy A21s,smartphone,Knox,3.8,FALSE,SM-A217F
+Galaxy A22,smartphone,Knox,3.8,FALSE,SM-A225M
+Galaxy A22,smartphone,Knox,3.8,FALSE,SM-A225F
+Galaxy A22e 5G,smartphone,Knox,3.8,FALSE,SC-56B
+Galaxy A23,smartphone,Knox,3.8,FALSE,SM-A235N
+Galaxy A23,smartphone,Knox,3.8,FALSE,SM-A235F
+Galaxy A23,smartphone,Knox,3.8,FALSE,SM-A235M
+Galaxy A23 5G,smartphone,Knox,3.8,FALSE,SM-A236U
+Galaxy A23 5G,smartphone,Knox,3.8,FALSE,SM-S236DL
+Galaxy A23 5G,smartphone,Knox,3.8,FALSE,SM-A236U1
+Galaxy A23 5G,smartphone,Knox,3.8,FALSE,SM-A236U
+Galaxy A23 5G,smartphone,Knox,3.8,FALSE,SM-A2360
+Galaxy A23 5G,smartphone,Knox,3.8,FALSE,SM-A236E
+Galaxy A23 5G,smartphone,Knox,3.8,FALSE,SM-A236B
+Galaxy A23 5G,smartphone,Knox,3.8,FALSE,SM-A236M
+Galaxy A31,smartphone,Knox,3.8,FALSE,SM-A315N
+Galaxy A31,smartphone,Knox,3.8,FALSE,SM-A315F
+Galaxy A31,smartphone,Knox,3.8,FALSE,SM-A315G
+Galaxy A32,smartphone,Knox,3.8,TRUE,SM-A325M
+Galaxy A32,smartphone,Knox,3.8,TRUE,SM-A325F
+Galaxy A32,smartphone,Knox,3.8,TRUE,SM-A325N
+Galaxy A32 5G,smartphone,Knox,3.8,TRUE,SM-S326DL
+Galaxy A32 5G,smartphone,Knox,3.8,TRUE,SM-A326U1
+Galaxy A32 5G,smartphone,Knox,3.8,TRUE,SM-A326U
+Galaxy A32 5G,smartphone,Knox,3.8,TRUE,SM-A326W
+Galaxy A32 5G,smartphone,Knox,3.8,TRUE,SCG08
+Galaxy A32 5G,smartphone,Knox,3.8,TRUE,SM-A326K
+Galaxy A32 5G,smartphone,Knox,3.8,TRUE,SM-A326BR
+Galaxy A32 5G,smartphone,Knox,3.8,TRUE,SM-A326B
+Galaxy A33 5G,smartphone,Knox,3.8,FALSE,SM-A3360
+Galaxy A33 5G,smartphone,Knox,3.8,FALSE,SM-A336N
+Galaxy A33 5G,smartphone,Knox,3.8,TRUE,SM-A336B
+Galaxy A33 5G,smartphone,Knox,3.8,TRUE,SM-A336E
+Galaxy A33 5G,smartphone,Knox,3.8,TRUE,SM-A336M
+Galaxy A41,smartphone,Knox,3.8,FALSE,SM-A415F
+Galaxy A41,smartphone,Knox,3.8,FALSE,SCV48
+Galaxy A41,smartphone,Knox,3.8,FALSE,SC-41A
+Galaxy A42 5G,smartphone,Knox,3.8,FALSE,SM-A426N
+Galaxy A42 5G,smartphone,Knox,3.8,FALSE,SM-A426U
+Galaxy A42 5G,smartphone,Knox,3.8,FALSE,SM-A4260
+Galaxy A42 5G,smartphone,Knox,3.8,FALSE,SM-A426B
+Galaxy A42 5G,smartphone,Knox,3.8,FALSE,SM-S426DL
+Galaxy A42 5G,smartphone,Knox,3.8,FALSE,SM-A426U1
+Galaxy A51,smartphone,Knox,3.8,FALSE,SM-A515F
+Galaxy A51,smartphone,Knox,3.8,FALSE,SM-A515U
+Galaxy A51,smartphone,Knox,3.8,FALSE,SM-A515W
+Galaxy A51,smartphone,Knox,3.8,FALSE,SM-A515U1
+Galaxy A51,smartphone,Knox,3.8,FALSE,SM-S515DL
+Galaxy A51 5G,smartphone,Knox,3.8,FALSE,SM-A516U
+Galaxy A51 5G,smartphone,Knox,3.8,FALSE,SM-A516U1
+Galaxy A51 5G,smartphone,Knox,3.8,FALSE,SM-A516V
+Galaxy A51 5G,smartphone,Knox,3.8,FALSE,SCG07
+Galaxy A51 5G,smartphone,Knox,3.8,FALSE,SC-54A
+Galaxy A51 5G,smartphone,Knox,3.8,FALSE,SM-A516N
+Galaxy A51 5G,smartphone,Knox,3.8,FALSE,SM-A516B
+Galaxy A51 5G,smartphone,Knox,3.8,FALSE,SM-A5160
+Galaxy A52,smartphone,Knox,3.8,TRUE,SM-A525F
+Galaxy A52,smartphone,Knox,3.8,TRUE,SM-A525M
+Galaxy A52 5G,smartphone,Knox,3.8,FALSE,SM-A5260
+Galaxy A52 5G,smartphone,Knox,3.8,TRUE,SM-A526U
+Galaxy A52 5G,smartphone,Knox,3.8,TRUE,SC-53B
+Galaxy A52 5G,smartphone,Knox,3.8,TRUE,SM-A526W
+Galaxy A52 5G,smartphone,Knox,3.8,TRUE,SM-A526B
+Galaxy A52 5G,smartphone,Knox,3.8,TRUE,SM-A526U1
+Galaxy A52s 5G,smartphone,Knox,3.8,TRUE,SM-A528B
+Galaxy A52s 5G,smartphone,Knox,3.8,TRUE,SM-A528N
+Galaxy A53 5G,smartphone,Knox,3.8,TRUE,SM-A536B
+Galaxy A53 5G,smartphone,Knox,3.8,TRUE,SM-A536E
+Galaxy A53 5G,smartphone,Knox,3.8,TRUE,SM-A536N
+Galaxy A53 5G,smartphone,Knox,3.8,TRUE,SM-A536U
+Galaxy A53 5G,smartphone,Knox,3.8,TRUE,SM-A536V
+Galaxy A53 5G,smartphone,Knox,3.8,TRUE,SM-A536W
+Galaxy A53 5G,smartphone,Knox,3.8,FALSE,SM-A536U1
+Galaxy A53 5G,smartphone,Knox,3.8,FALSE,SM-A5360
+Galaxy A53 5G,smartphone,Knox,3.8,FALSE,SCG15
+Galaxy A53 5G,smartphone,Knox,3.8,FALSE,SC-53C
+Galaxy A53 5G,smartphone,Knox,3.8,FALSE,SM-S536DL
+Galaxy A71,smartphone,Knox,3.8,FALSE,SM-A715F
+Galaxy A71,smartphone,Knox,3.8,FALSE,SM-A715W
+Galaxy A71 5G,smartphone,Knox,3.8,FALSE,SM-A716B
+Galaxy A71 5G,smartphone,Knox,3.8,FALSE,SM-A7160
+Galaxy A71 5G,smartphone,Knox,3.8,FALSE,SM-A716S
+Galaxy A71 5G,smartphone,Knox,3.8,FALSE,SM-A716U
+Galaxy A71 5G,smartphone,Knox,3.8,FALSE,SM-A716V
+Galaxy A71 5G,smartphone,Knox,3.8,FALSE,SM-A716U1
+Galaxy A72,smartphone,Knox,3.8,FALSE,SM-A725M
+Galaxy A72,smartphone,Knox,3.8,FALSE,SM-A725F
+Galaxy A73 5G,smartphone,Knox,3.8,FALSE,SM-A736B
+Galaxy A82 5G,smartphone,Knox,3.8,FALSE,SM-A826S
+Galaxy A90 5G,smartphone,Knox,3.8,FALSE,SM-A908B
+Galaxy A90 5G,smartphone,Knox,3.8,FALSE,SM-A908N
+Galaxy A90 5G,smartphone,Knox,3.8,FALSE,SM-A9080
+Galaxy F12,smartphone,Knox,3.8,FALSE,SM-F127G
+Galaxy F13,smartphone,No-Info,3.8,FALSE,SM-E135F
+Galaxy F22,smartphone,Knox,3.8,FALSE,SM-E225F
+Galaxy F62,smartphone,Knox,3.8,FALSE,SM-E625F
+Galaxy Fold,smartphone,Knox,3.8,FALSE,SM-F900F
+Galaxy Fold,smartphone,Knox,3.8,FALSE,SM-F900U
+Galaxy Fold,smartphone,Knox,3.8,FALSE,SM-F9000
+Galaxy Fold,smartphone,Knox,3.8,FALSE,SCV44
+Galaxy Fold,smartphone,Knox,3.8,FALSE,SM-F900U1
+Galaxy Fold,smartphone,Knox,3.8,FALSE,SM-F907N
+Galaxy Fold,smartphone,Knox,3.8,FALSE,SM-F900W
+Galaxy Fold 5G,smartphone,Knox,3.8,FALSE,SM-F907B
+Galaxy M12,smartphone,Knox,3.8,FALSE,SM-M127G
+Galaxy M12,smartphone,Knox,3.8,FALSE,SM-M127N
+Galaxy M12,smartphone,Knox,3.8,FALSE,SM-M127F
+Galaxy M13,smartphone,No-Info,3.8,FALSE,SM-M135FU
+Galaxy M13,smartphone,No-Info,3.8,FALSE,SM-M135M
+Galaxy M13,smartphone,No-Info,3.8,FALSE,SM-M135F
+Galaxy M22,smartphone,Knox,3.8,FALSE,SM-M225FV
+Galaxy M23 5G,smartphone,Knox,3.8,FALSE,SM-E236B
+Galaxy M23 5G,smartphone,Knox,3.8,FALSE,SM-M236B
+Galaxy M23 5G,smartphone,Knox,3.8,FALSE,SM-M236Q
+Galaxy M23 5G,smartphone,Knox,3.8,FALSE,SM-M236L
+Galaxy M31s,smartphone,Knox,3.8,FALSE,SM-M317F
+Galaxy M32,smartphone,Knox,3.8,FALSE,SM-M325F
+Galaxy M32,smartphone,Knox,3.8,FALSE,SM-M325FV
+Galaxy M32 5G,smartphone,Knox,3.8,FALSE,SM-M326B
+Galaxy M33 5G,smartphone,Knox,3.8,FALSE,SM-M336BU
+Galaxy M33 5G,smartphone,Knox,3.8,FALSE,SM-M336B
+Galaxy M33 5G,smartphone,Knox,3.8,FALSE,SM-M336K
+Galaxy M42 5G,smartphone,Knox,3.8,FALSE,SM-M426B
+Galaxy M51,smartphone,Knox,3.8,FALSE,SM-M515F
+Galaxy M52 5G,smartphone,Knox,3.8,FALSE,SM-M526BR
+Galaxy M52 5G,smartphone,Knox,3.8,FALSE,SM-M526B
+Galaxy M62,smartphone,Knox,3.8,FALSE,SM-M625F
+Galaxy Note10,smartphone,Knox,3.8,TRUE,SM-N970U
+Galaxy Note10,smartphone,Knox,3.8,TRUE,SM-N970F
+Galaxy Note10,smartphone,Knox,3.8,FALSE,SM-N9700
+Galaxy Note10,smartphone,Knox,3.8,FALSE,SM-N970W
+Galaxy Note10,smartphone,Knox,3.8,FALSE,SM-N970U1
+Galaxy Note10 5G,smartphone,Knox,3.8,FALSE,SM-N971N
+Galaxy Note10 Lite,smartphone,Knox,3.8,FALSE,SM-N770F
+Galaxy Note10+,smartphone,Knox,3.8,TRUE,SM-N975U
+Galaxy Note10+,smartphone,Knox,3.8,TRUE,SM-N975F
+Galaxy Note10+,smartphone,Knox,3.8,TRUE,SM-N975W
+Galaxy Note10+,smartphone,Knox,3.8,TRUE,SM-N975U1
+Galaxy Note10+,smartphone,Knox,3.8,TRUE,SC-01M
+Galaxy Note10+,smartphone,Knox,3.8,TRUE,SM-N975C
+Galaxy Note10+,smartphone,Knox,3.8,TRUE,SCV45
+Galaxy Note10+,smartphone,Knox,3.8,TRUE,SM-N9750
+Galaxy Note10+ 5G,smartphone,Knox,3.8,FALSE,SM-N9760
+Galaxy Note10+ 5G,smartphone,Knox,3.8,TRUE,SM-N976V
+Galaxy Note10+ 5G,smartphone,Knox,3.8,TRUE,SM-N976B
+Galaxy Note10+ 5G,smartphone,Knox,3.8,TRUE,SM-N976U
+Galaxy Note10+ 5G,smartphone,Knox,3.8,TRUE,SM-N976N
+Galaxy Note10+ 5G,smartphone,Knox,3.8,TRUE,SM-N976Q
+Galaxy Note20,smartphone,Knox,3.8,TRUE,SM-N980F
+Galaxy Note20 5G,smartphone,Knox,3.8,FALSE,SM-N981W
+Galaxy Note20 5G,smartphone,Knox,3.8,FALSE,SM-N981U1
+Galaxy Note20 5G,smartphone,Knox,3.8,TRUE,SM-N981N
+Galaxy Note20 5G,smartphone,Knox,3.8,TRUE,SM-N981U
+Galaxy Note20 5G,smartphone,Knox,3.8,TRUE,SM-N981BR
+Galaxy Note20 5G,smartphone,Knox,3.8,TRUE,SM-N981B
+Galaxy Note20 5G,smartphone,Knox,3.8,TRUE,SM-N9810
+Galaxy Note20 Ultra 5G,smartphone,Knox,3.8,FALSE,SM-N9860
+Galaxy Note20 Ultra 5G,smartphone,Knox,3.8,FALSE,SM-N985F
+Galaxy Note20 Ultra 5G,smartphone,Knox,3.8,TRUE,SM-N986N
+Galaxy Note20 Ultra 5G,smartphone,Knox,3.8,TRUE,SM-N986BR
+Galaxy Note20 Ultra 5G,smartphone,Knox,3.8,TRUE,SM-N986U
+Galaxy Note20 Ultra 5G,smartphone,Knox,3.8,TRUE,SM-N986B
+Galaxy Note20 Ultra 5G,smartphone,Knox,3.8,TRUE,SCG06
+Galaxy Note20 Ultra 5G,smartphone,Knox,3.8,TRUE,SM-N986W
+Galaxy Note20 Ultra 5G,smartphone,Knox,3.8,TRUE,SM-N986U1
+Galaxy Note20 Ultra 5G,smartphone,Knox,3.8,TRUE,SC-53A
+Galaxy S10,smartphone,Knox,3.8,FALSE,SM-G9730
+Galaxy S10,smartphone,Knox,3.8,TRUE,SM-G973F
+Galaxy S10,smartphone,Knox,3.8,TRUE,SM-G973U
+Galaxy S10,smartphone,Knox,3.8,TRUE,SM-G973N
+Galaxy S10,smartphone,Knox,3.8,TRUE,SM-G9738
+Galaxy S10,smartphone,Knox,3.8,TRUE,SM-G973W
+Galaxy S10,smartphone,Knox,3.8,TRUE,SM-G973C
+Galaxy S10,smartphone,Knox,3.8,TRUE,SM-G973U1
+Galaxy S10,smartphone,Knox,3.8,TRUE,SC-03L
+Galaxy S10,smartphone,Knox,3.8,TRUE,SCV41
+Galaxy S10 5G,smartphone,Knox,3.8,FALSE,SM-G977B
+Galaxy S10 5G,smartphone,Knox,3.8,FALSE,SM-G977P
+Galaxy S10 5G,smartphone,Knox,3.8,FALSE,SM-G977T
+Galaxy S10 5G,smartphone,Knox,3.8,FALSE,SM-G977N
+Galaxy S10 5G,smartphone,Knox,3.8,FALSE,SM-G977U
+Galaxy S10 Lite,smartphone,Knox,3.8,FALSE,SM-G770F
+Galaxy S10 Lite,smartphone,Knox,3.8,FALSE,SM-G770U1
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SM-G975F
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SM-G975FC
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SM-G975U
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SM-G975UC
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SM-G975N
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SM-G975NC
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SM-G9750C
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SM-G9758
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SM-G975WC
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SM-G975W
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SM-G975U2
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SM-G975U1
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SC-05L
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SCV42
+Galaxy S10+,smartphone,Knox,3.8,TRUE,SC-04L
+Galaxy S10+,smartphone,Knox,3.8,FALSE,SM-G9750
+Galaxy S10e,smartphone,Knox,3.8,FALSE,SM-G9700
+Galaxy S10e,smartphone,Knox,3.8,TRUE,SM-G970F
+Galaxy S10e,smartphone,Knox,3.8,TRUE,SM-G970N
+Galaxy S10e,smartphone,Knox,3.8,TRUE,SM-G970U
+Galaxy S10e,smartphone,Knox,3.8,TRUE,SM-G9708
+Galaxy S10e,smartphone,Knox,3.8,TRUE,SM-G970W
+Galaxy S10e,smartphone,Knox,3.8,TRUE,SM-G970U1
+Galaxy S20,smartphone,Knox,3.8,TRUE,SM-G980F
+Galaxy S20 5G,smartphone,Knox,3.8,FALSE,SM-G9810
+Galaxy S20 5G,smartphone,Knox,3.8,FALSE,SC51Aa
+Galaxy S20 5G,smartphone,Knox,3.8,FALSE,SC-51A
+Galaxy S20 5G,smartphone,Knox,3.8,FALSE,SCG01
+Galaxy S20 5G,smartphone,Knox,3.8,TRUE,SM-G981U
+Galaxy S20 5G,smartphone,Knox,3.8,TRUE,SM-G981N
+Galaxy S20 5G,smartphone,Knox,3.8,TRUE,SM-G981B
+Galaxy S20 5G,smartphone,Knox,3.8,TRUE,SM-G981V
+Galaxy S20 5G,smartphone,Knox,3.8,TRUE,SM-G981W
+Galaxy S20 5G,smartphone,Knox,3.8,TRUE,SM-G981U1
+Galaxy S20 FE,smartphone,Knox,3.8,TRUE,SM-G780F
+Galaxy S20 FE,smartphone,Knox,3.8,TRUE,SM-G780G
+Galaxy S20 FE 5G,smartphone,Knox,3.8,TRUE,SM-G781V
+Galaxy S20 FE 5G,smartphone,Knox,3.8,TRUE,SM-G781U
+Galaxy S20 FE 5G,smartphone,Knox,3.8,TRUE,SM-G781N
+Galaxy S20 FE 5G,smartphone,Knox,3.8,TRUE,SM-G781B
+Galaxy S20 FE 5G,smartphone,Knox,3.8,TRUE,SM-G781U1
+Galaxy S20 FE 5G,smartphone,Knox,3.8,TRUE,SM-G781W
+Galaxy S20 FE 5G,smartphone,Knox,3.8,FALSE,SM-G7810
+Galaxy S20 Ultra,smartphone,Knox,3.8,FALSE,SM-G988BR
+Galaxy S20 Ultra,smartphone,Knox,3.8,FALSE,SM-G9880
+Galaxy S20 Ultra,smartphone,Knox,3.8,FALSE,SM-G988W
+Galaxy S20 Ultra,smartphone,Knox,3.8,FALSE,SM-G988U1
+Galaxy S20 Ultra,smartphone,Knox,3.8,FALSE,SCG03
+Galaxy S20 Ultra,smartphone,Knox,3.8,TRUE,SM-G988U
+Galaxy S20 Ultra,smartphone,Knox,3.8,TRUE,SM-G988N
+Galaxy S20 Ultra,smartphone,Knox,3.8,TRUE,SM-G988B
+Galaxy S20+,smartphone,Knox,3.8,TRUE,SM-G985F
+Galaxy S20+ 5G,smartphone,Knox,3.8,FALSE,SM-G9860
+Galaxy S20+ 5G,smartphone,Knox,3.8,TRUE,SM-G986U
+Galaxy S20+ 5G,smartphone,Knox,3.8,TRUE,SM-G986N
+Galaxy S20+ 5G,smartphone,Knox,3.8,TRUE,SM-G986BR
+Galaxy S20+ 5G,smartphone,Knox,3.8,TRUE,SM-G986B
+Galaxy S20+ 5G,smartphone,Knox,3.8,TRUE,SM-G986W
+Galaxy S20+ 5G,smartphone,Knox,3.8,TRUE,SM-G986U1
+Galaxy S20+ 5G,smartphone,Knox,3.8,TRUE,SCG02
+Galaxy S20+ 5G,smartphone,Knox,3.8,TRUE,SC-52A
+Galaxy S21 5G,smartphone,Knox,3.8,TRUE,SM-G991B
+Galaxy S21 5G,smartphone,Knox,3.8,TRUE,SM-G991U
+Galaxy S21 5G,smartphone,Knox,3.8,TRUE,SM-G991N
+Galaxy S21 5G,smartphone,Knox,3.8,TRUE,SM-G9910
+Galaxy S21 5G,smartphone,Knox,3.8,TRUE,SM-G991W
+Galaxy S21 5G,smartphone,Knox,3.8,TRUE,SM-G991U1
+Galaxy S21 5G,smartphone,Knox,3.8,TRUE,SCG09
+Galaxy S21 5G,smartphone,Knox,3.8,TRUE,SC-51B
+Galaxy S21 FE 5G,smartphone,Knox,3.8,TRUE,SM-G990B
+Galaxy S21 FE 5G,smartphone,Knox,3.8,TRUE,SM-G990E
+Galaxy S21 FE 5G,smartphone,Knox,3.8,TRUE,SM-G990U
+Galaxy S21 FE 5G,smartphone,Knox,3.8,TRUE,SM-G990W
+Galaxy S21 FE 5G,smartphone,Knox,3.8,FALSE,SM-G990U1
+Galaxy S21 FE 5G,smartphone,Knox,3.8,FALSE,SM-G9900
+Galaxy S21 FE 5G,smartphone,Knox,3.8,FALSE,SM-G990U2
+Galaxy S21 FE 5G,smartphone,Knox,3.8,FALSE,SM-G990B2
+Galaxy S21 FE 5G,smartphone,Knox,3.8,FALSE,SM-G990W2
+Galaxy S21 FE 5G,smartphone,Knox,3.8,FALSE,SM-G990U3
+Galaxy S21 Ultra,smartphone,Knox,3.8,FALSE,SM-G9980
+Galaxy S21 Ultra,smartphone,Knox,3.8,FALSE,SM-G998W
+Galaxy S21 Ultra,smartphone,Knox,3.8,FALSE,SM-G998U1
+Galaxy S21 Ultra 5G,smartphone,Knox,3.8,TRUE,SM-G998N
+Galaxy S21 Ultra 5G,smartphone,Knox,3.8,TRUE,SM-G998U
+Galaxy S21 Ultra 5G,smartphone,Knox,3.8,TRUE,SM-G998B
+Galaxy S21 Ultra 5G,smartphone,Knox,3.8,TRUE,SC-52B
+Galaxy S21+,smartphone,Knox,3.8,FALSE,SM-G9960
+Galaxy S21+,smartphone,Knox,3.8,FALSE,SM-G996U1
+Galaxy S21+,smartphone,Knox,3.8,FALSE,SM-G996W
+Galaxy S21+ 5G,smartphone,Knox,3.8,TRUE,SM-G996N
+Galaxy S21+ 5G,smartphone,Knox,3.8,TRUE,SM-G996U
+Galaxy S21+ 5G,smartphone,Knox,3.8,TRUE,SM-G996B
+Galaxy S21+ 5G,smartphone,Knox,3.8,TRUE,SCG10
+Galaxy S22,smartphone,Knox,3.8,TRUE,SM-S901E
+Galaxy S22,smartphone,Knox,3.8,TRUE,SM-S901B
+Galaxy S22,smartphone,Knox,3.8,TRUE,SM-S901N
+Galaxy S22,smartphone,Knox,3.8,TRUE,SM-S901U
+Galaxy S22,smartphone,Knox,3.8,TRUE,SM-S901W
+Galaxy S22,smartphone,Knox,3.8,FALSE,SM-S901U1
+Galaxy S22,smartphone,Knox,3.8,FALSE,SM-S9010
+Galaxy S22,smartphone,Knox,3.8,FALSE,SCG13
+Galaxy S22,smartphone,Knox,3.8,FALSE,SC-51C
+Galaxy S22 Ultra,smartphone,Knox,3.8,FALSE,SM-S908U1
+Galaxy S22 Ultra,smartphone,Knox,3.8,FALSE,SM-S9080
+Galaxy S22 Ultra,smartphone,Knox,3.8,FALSE,SCG14
+Galaxy S22 Ultra,smartphone,Knox,3.8,FALSE,SC-52C
+Galaxy S22 Ultra,smartphone,Knox,3.8,TRUE,SM-S908E
+Galaxy S22 Ultra,smartphone,Knox,3.8,TRUE,SM-S908B
+Galaxy S22 Ultra,smartphone,Knox,3.8,TRUE,SM-S908N
+Galaxy S22 Ultra,smartphone,Knox,3.8,TRUE,SM-S908U
+Galaxy S22 Ultra,smartphone,Knox,3.8,TRUE,SM-S908W
+Galaxy S22+,smartphone,Knox,3.8,TRUE,SM-S906E
+Galaxy S22+,smartphone,Knox,3.8,TRUE,SM-S906B
+Galaxy S22+,smartphone,Knox,3.8,TRUE,SM-S906N
+Galaxy S22+,smartphone,Knox,3.8,TRUE,SM-S906U
+Galaxy S22+,smartphone,Knox,3.8,TRUE,SM-S906W
+Galaxy S22+,smartphone,Knox,3.8,FALSE,SM-S906U1
+Galaxy S22+,smartphone,Knox,3.8,FALSE,SM-S9060
+Galaxy XCover 5,smartphone,Knox,3.8,TRUE,SM-G525F
+Galaxy XCover 5,smartphone,Knox,3.8,TRUE,SM-G525N
+Galaxy XCover 6 Pro,smartphone,Knox,3.8,TRUE,SM-G736U
+Galaxy XCover 6 Pro,smartphone,Knox,3.8,TRUE,SM-G736B
+Galaxy XCover 6 Pro,smartphone,Knox,3.8,TRUE,SM-G736W
+Galaxy XCover 6 Pro,smartphone,Knox,3.8,FALSE,SM-G736U1
+Galaxy XCover Pro,smartphone,Knox,3.8,TRUE,SM-G715U1
+Galaxy XCover Pro,smartphone,Knox,3.8,TRUE,SM-G715U
+Galaxy XCover Pro,smartphone,Knox,3.8,TRUE,SM-G715W
+Galaxy XCover Pro,smartphone,Knox,3.8,TRUE,SM-G715A
+Galaxy XCover Pro,smartphone,Knox,3.8,TRUE,SM-G715FN
+Galaxy Z Flip,smartphone,Knox,3.8,FALSE,SM-F700N
+Galaxy Z Flip,smartphone,Knox,3.8,FALSE,SM-F700U
+Galaxy Z Flip,smartphone,Knox,3.8,FALSE,SM-F700F
+Galaxy Z Flip,smartphone,Knox,3.8,FALSE,SM-F700U1
+Galaxy Z Flip,smartphone,Knox,3.8,FALSE,SM-F7000
+Galaxy Z Flip,smartphone,Knox,3.8,FALSE,SM-F700W
+Galaxy Z Flip,smartphone,Knox,3.8,FALSE,SCV47
+Galaxy Z Flip 5G,smartphone,Knox,3.8,FALSE,SM-F707N
+Galaxy Z Flip 5G,smartphone,Knox,3.8,FALSE,SM-F707U
+Galaxy Z Flip 5G,smartphone,Knox,3.8,FALSE,SM-F707B
+Galaxy Z Flip 5G,smartphone,Knox,3.8,FALSE,SM-F707U1
+Galaxy Z Flip 5G,smartphone,Knox,3.8,FALSE,SM-F7070Y
+Galaxy Z Flip 5G,smartphone,Knox,3.8,FALSE,SM-F7070
+Galaxy Z Flip 5G,smartphone,Knox,3.8,FALSE,SM-F707W
+Galaxy Z Flip 5G,smartphone,Knox,3.8,FALSE,SCG04
+Galaxy Z Flip3 5G,smartphone,Knox,3.8,FALSE,SM-F711N
+Galaxy Z Flip3 5G,smartphone,Knox,3.8,FALSE,SM-F711B
+Galaxy Z Flip3 5G,smartphone,Knox,3.8,FALSE,SM-F711U
+Galaxy Z Flip3 5G,smartphone,Knox,3.8,FALSE,SM-F711U1
+Galaxy Z Flip3 5G,smartphone,Knox,3.8,FALSE,SM-F7110
+Galaxy Z Flip3 5G,smartphone,Knox,3.8,FALSE,SC-54B
+Galaxy Z Flip3 5G,smartphone,Knox,3.8,FALSE,SCG12
+Galaxy Z Flip3 5G,smartphone,Knox,3.8,TRUE,SM-F711W
+Galaxy Z Flip4,smartphone,Knox,3.8,FALSE,SCG17
+Galaxy Z Flip4,smartphone,Knox,3.8,FALSE,SC-54C
+Galaxy Z Flip4 5G,smartphone,Knox,3.8,TRUE,SM-F721N
+Galaxy Z Flip4 5G,smartphone,Knox,3.8,TRUE,SM-F721U1
+Galaxy Z Flip4 5G,smartphone,Knox,3.8,TRUE,SM-F721U
+Galaxy Z Flip4 5G,smartphone,Knox,3.8,TRUE,SM-F721BE
+Galaxy Z Flip4 5G,smartphone,Knox,3.8,TRUE,SM-F721B
+Galaxy Z Flip4 5G,smartphone,Knox,3.8,TRUE,SM-F721C
+Galaxy Z Flip4 5G,smartphone,Knox,3.8,TRUE,SM-F721W
+Galaxy Z Flip4 5G,smartphone,Knox,3.8,TRUE,SM-F7210
+Galaxy Z Fold2,smartphone,Knox,3.8,FALSE,SM-F916B
+Galaxy Z Fold2 5G,smartphone,Knox,3.8,FALSE,SM-F916N
+Galaxy Z Fold2 5G,smartphone,Knox,3.8,FALSE,SM-F916U
+Galaxy Z Fold2 5G,smartphone,Knox,3.8,FALSE,SM-F9160
+Galaxy Z Fold2 5G,smartphone,Knox,3.8,FALSE,SM-F916U1
+Galaxy Z Fold2 5G,smartphone,Knox,3.8,FALSE,SM-F916W
+Galaxy Z Fold2 5G,smartphone,Knox,3.8,FALSE,SCG05
+Galaxy Z Fold2 5G,smartphone,Knox,3.8,FALSE,SM-F916Q
+Galaxy Z Fold3 5G,smartphone,Knox,3.8,TRUE,SM-F926B
+Galaxy Z Fold3 5G,smartphone,Knox,3.8,TRUE,SM-F926N
+Galaxy Z Fold3 5G,smartphone,Knox,3.8,TRUE,SM-F926U
+Galaxy Z Fold3 5G,smartphone,Knox,3.8,TRUE,SM-F926U1
+Galaxy Z Fold3 5G,smartphone,Knox,3.8,TRUE,SM-F926W
+Galaxy Z Fold3 5G,smartphone,Knox,3.8,FALSE,SM-F9260
+Galaxy Z Fold3 5G,smartphone,Knox,3.8,FALSE,SCG11
+Galaxy Z Fold3 5G,smartphone,Knox,3.8,FALSE,SC-55B
+Galaxy Z Fold4,smartphone,Knox,3.8,FALSE,SCG16
+Galaxy Z Fold4,smartphone,Knox,3.8,FALSE,SC-55C
+Galaxy Z Fold4 5G,smartphone,Knox,3.8,TRUE,SM-F936N
+Galaxy Z Fold4 5G,smartphone,Knox,3.8,TRUE,SM-F936U
+Galaxy Z Fold4 5G,smartphone,Knox,3.8,TRUE,SM-F936BE
+Galaxy Z Fold4 5G,smartphone,Knox,3.8,TRUE,SM-F936B
+Galaxy Z Fold4 5G,smartphone,Knox,3.8,TRUE,SM-F936W
+Galaxy Z Fold4 5G,smartphone,Knox,3.8,TRUE,SM-F936U1
+Galaxy Z Fold4 5G,smartphone,Knox,3.8,TRUE,SM-F9360
+W20 5G,smartphone,Knox,3.8,FALSE,SM-W2020
+W21 5G,smartphone,Knox,3.8,FALSE,SM-W2021
+W22 5G,smartphone,Knox,3.8,FALSE,SM-W2022
+Galaxy XCover 4s,smartphone,Knox,3.7.1,FALSE,SM-G398FN
+Galaxy A10,smartphone,Knox,3.7,FALSE,SM-A105N
+Galaxy A10,smartphone,Knox,3.7,FALSE,SM-A105FN
+Galaxy A10,smartphone,Knox,3.7,FALSE,SM-A105F
+Galaxy A10,smartphone,Knox,3.7,FALSE,SM-A105G
+Galaxy A10,smartphone,Knox,3.7,FALSE,SM-A105M
+Galaxy A10e,smartphone,Knox,3.7,FALSE,SCV49
+Galaxy A10e,smartphone,Knox,3.7,FALSE,SC-42A
+Galaxy A10e,smartphone,Knox,3.7,FALSE,SM-A102N
+Galaxy A10e,smartphone,Knox,3.7,FALSE,SM-A102U
+Galaxy A10e,smartphone,Knox,3.7,FALSE,SM-A102W
+Galaxy A10e,smartphone,Knox,3.7,FALSE,SC-02M
+Galaxy A10e,smartphone,Knox,3.7,FALSE,SCV46
+Galaxy A10e,smartphone,Knox,3.7,FALSE,SM-A102U1
+Galaxy A10e,smartphone,Knox,3.7,FALSE,SM-S102DL
+Galaxy A12,smartphone,Knox,3.7,FALSE,SM-A125M
+Galaxy A12,smartphone,Knox,3.7,FALSE,SM-A125F
+Galaxy A12,smartphone,Knox,3.7,FALSE,SM-A125W
+Galaxy A12,smartphone,Knox,3.7,FALSE,SM-A125N
+Galaxy A12,smartphone,Knox,3.7,FALSE,SM-A125U
+Galaxy A12,smartphone,Knox,3.7,FALSE,SM-S127DL
+Galaxy A12,smartphone,Knox,3.7,FALSE,SM-A125U1
+Galaxy A20,smartphone,Knox,3.7,FALSE,SM-A205FN
+Galaxy A20,smartphone,Knox,3.7,FALSE,SM-A205S
+Galaxy A20,smartphone,Knox,3.7,FALSE,SM-A205YN
+Galaxy A20,smartphone,Knox,3.7,FALSE,SM-A205G
+Galaxy A20,smartphone,Knox,3.7,FALSE,SM-A205GN
+Galaxy A20,smartphone,Knox,3.7,FALSE,SM-A205F
+Galaxy A20,smartphone,Knox,3.7,FALSE,SM-A205U
+Galaxy A20,smartphone,Knox,3.7,FALSE,SM-A205W
+Galaxy A20,smartphone,Knox,3.7,FALSE,SM-A205U1
+Galaxy A20,smartphone,Knox,3.7,FALSE,SM-S205DL
+Galaxy A20e,smartphone,Knox,3.7,FALSE,SM-A202F
+Galaxy A20e,smartphone,Knox,3.7,FALSE,SM-A202K
+Galaxy A30,smartphone,Knox,3.7,FALSE,SM-A305FN
+Galaxy A30,smartphone,Knox,3.7,FALSE,SM-A305GT
+Galaxy A30,smartphone,Knox,3.7,FALSE,SM-A305YN
+Galaxy A30,smartphone,Knox,3.7,FALSE,SM-A3058
+Galaxy A30,smartphone,Knox,3.7,FALSE,SM-A3050
+Galaxy A30,smartphone,Knox,3.7,FALSE,SM-A305G
+Galaxy A30,smartphone,Knox,3.7,FALSE,SM-A3051
+Galaxy A30,smartphone,Knox,3.7,FALSE,SM-A305F
+Galaxy A30,smartphone,Knox,3.7,FALSE,SM-A305GN
+Galaxy A30,smartphone,Knox,3.7,FALSE,SM-A305N
+Galaxy A30s,smartphone,Knox,3.7,FALSE,SM-A307FN
+Galaxy A30s,smartphone,Knox,3.7,FALSE,SM-A307G
+Galaxy A30s,smartphone,Knox,3.7,FALSE,SM-A307GN
+Galaxy A30s,smartphone,Knox,3.7,FALSE,SM-A307GT
+Galaxy A40,smartphone,Knox,3.7,FALSE,SM-A405FN
+Galaxy A40,smartphone,Knox,3.7,FALSE,SM-A405FM
+Galaxy A40,smartphone,Knox,3.7,FALSE,SM-A405S
+Galaxy A50,smartphone,Knox,3.7,FALSE,SM-A505GT
+Galaxy A50,smartphone,Knox,3.7,FALSE,SM-A505G
+Galaxy A50,smartphone,Knox,3.7,FALSE,SM-A505GN
+Galaxy A50,smartphone,Knox,3.7,FALSE,SM-A505YN
+Galaxy A50,smartphone,Knox,3.7,FALSE,SM-A505F
+Galaxy A50,smartphone,Knox,3.7,FALSE,SM-A505FM
+Galaxy A50,smartphone,Knox,3.7,FALSE,SM-A505FN
+Galaxy A50,smartphone,Knox,3.7,FALSE,SM-A505U
+Galaxy A50,smartphone,Knox,3.7,FALSE,SM-A505N
+Galaxy A50,smartphone,Knox,3.7,FALSE,SM-A505W
+Galaxy A50,smartphone,Knox,3.7,FALSE,SM-S506DL
+Galaxy A50,smartphone,Knox,3.7,FALSE,SM-A505U1
+Galaxy A50s,smartphone,Knox,3.7,FALSE,SM-A507FN
+Galaxy A50s,smartphone,Knox,3.7,FALSE,SM-A5070
+Galaxy A60,smartphone,Knox,3.7,FALSE,SM-A6060
+Galaxy A60,smartphone,Knox,3.7,FALSE,SM-A606Y
+Galaxy A70,smartphone,Knox,3.7,FALSE,SM-A705FN
+Galaxy A70,smartphone,Knox,3.7,FALSE,SM-A705U
+Galaxy A70,smartphone,Knox,3.7,FALSE,SM-A705YN
+Galaxy A70,smartphone,Knox,3.7,FALSE,SM-A705W
+Galaxy A70,smartphone,Knox,3.7,FALSE,SM-A705GM
+Galaxy A70,smartphone,Knox,3.7,FALSE,SM-A7050
+Galaxy A70,smartphone,Knox,3.7,FALSE,SM-A705F
+Galaxy A70,smartphone,Knox,3.7,FALSE,SM-A705MN
+Galaxy A70s,smartphone,Knox,3.7,FALSE,SM-A7070
+Galaxy A70s,smartphone,Knox,3.7,FALSE,SM-A707F
+Galaxy A80,smartphone,Knox,3.7,FALSE,SM-A805N
+Galaxy A80,smartphone,Knox,3.7,FALSE,SM-A8050
+Galaxy A80,smartphone,Knox,3.7,FALSE,SM-A805F
+Galaxy Haechi,smartphone,Knox,3.7,FALSE,SM-G889G
+Galaxy Haechi,smartphone,Knox,3.7,FALSE,SM-G889F
+Galaxy M10s,smartphone,Knox,3.7,FALSE,SM-M107F
+Galaxy A02,smartphone,Non-Knox,,FALSE,SM-M022G
+Galaxy A02,smartphone,Non-Knox,,FALSE,SM-M022M
+Galaxy A02,smartphone,Non-Knox,,FALSE,SM-A022G
+Galaxy A02,smartphone,Non-Knox,,FALSE,SM-M022F
+Galaxy A02,smartphone,Non-Knox,,FALSE,SM-A022F
+Galaxy A02,smartphone,Non-Knox,,FALSE,SM-A022M
+Galaxy A02s,smartphone,Non-Knox,,FALSE,SM-A025M
+Galaxy A02s,smartphone,Non-Knox,,FALSE,SM-M025F
+Galaxy A02s,smartphone,Non-Knox,,FALSE,SM-A025F
+Galaxy A02s,smartphone,Non-Knox,,FALSE,SM-A025G
+Galaxy A02s,smartphone,Non-Knox,,FALSE,SM-E025F
+Galaxy A02s,smartphone,Non-Knox,,FALSE,SM-A025U1
+Galaxy A02s,smartphone,Non-Knox,,FALSE,SM-A025V
+Galaxy A02s,smartphone,Non-Knox,,FALSE,SM-A025AZ
+Galaxy A02s,smartphone,Non-Knox,,FALSE,SM-A025U
+Galaxy A02s,smartphone,Non-Knox,,FALSE,SM-A025A
+Galaxy A02s,smartphone,Non-Knox,,FALSE,SM-S124DL
+Galaxy A03,smartphone,Non-Knox,,FALSE,SM-A035F
+Galaxy A03,smartphone,Non-Knox,,FALSE,SM-A035M
+Galaxy A03,smartphone,Non-Knox,,FALSE,SM-A035G
+Galaxy A03 Core,smartphone,AndroidGo,,FALSE,SM-A032M
+Galaxy A03 Core,smartphone,AndroidGo,,FALSE,SM-A032F
+Galaxy A03s,smartphone,Non-Knox,,FALSE,SM-A037F
+Galaxy A03s,smartphone,Non-Knox,,FALSE,SM-A037M
+Galaxy A03s,smartphone,Non-Knox,,FALSE,SM-A037G
+Galaxy A03s,smartphone,Non-Knox,,FALSE,SM-A037U
+Galaxy A03s,smartphone,Non-Knox,,FALSE,SM-A037U1
+Galaxy A03s,smartphone,Non-Knox,,FALSE,SM-A037W
+Galaxy A03s,smartphone,Non-Knox,,FALSE,SM-S134DL
+Galaxy A04,smartphone,Non-Knox,,FALSE,SM-A045M
+Galaxy A04,smartphone,Non-Knox,,FALSE,SM-A045F
+Galaxy A10s,smartphone,Non-Knox,,FALSE,SM-A107F
+Galaxy A10s,smartphone,Non-Knox,,FALSE,SM-A107M
+Galaxy A10s,smartphone,Non-Knox,,FALSE,SM-M017F
+Galaxy A11,smartphone,Non-Knox,,FALSE,SM-A115M
+Galaxy A11,smartphone,Non-Knox,,FALSE,SM-A115F
+Galaxy A11,smartphone,Non-Knox,,FALSE,SM-A115W
+Galaxy A11,smartphone,Non-Knox,,FALSE,SM-A115AP
+Galaxy A11,smartphone,Non-Knox,,FALSE,SM-A115A
+Galaxy A11,smartphone,Non-Knox,,FALSE,SM-A115AZ
+Galaxy A11,smartphone,Non-Knox,,FALSE,SM-A115U1
+Galaxy A11,smartphone,Non-Knox,,FALSE,SM-A115U
+Galaxy A11,smartphone,Non-Knox,,FALSE,SM-S115DL
+Galaxy A20s,smartphone,Non-Knox,,FALSE,SM-A2070
+Galaxy A20s,smartphone,Non-Knox,,FALSE,SM-A207M
+Galaxy A20s,smartphone,Non-Knox,,FALSE,SM-A207F
+Galaxy A21,smartphone,Non-Knox,,FALSE,SM-A215W
+Galaxy A21,smartphone,Non-Knox,,FALSE,SM-S215DL
+Galaxy A21,smartphone,Non-Knox,,FALSE,SM-A215U1
+Galaxy A21,smartphone,Non-Knox,,FALSE,SM-A215U
+Galaxy A22 5G,smartphone,Non-Knox,,FALSE,SM-A226B
+Galaxy A22 5G,smartphone,Non-Knox,,FALSE,SM-A226L
+Galaxy A22 5G,smartphone,Non-Knox,,FALSE,SM-A226BR
+Galaxy A6s,smartphone,Non-Knox,,FALSE,SM-G6200
+Galaxy F42 5G,smartphone,Non-Knox,,FALSE,SM-E426S
+Galaxy F42 5G,smartphone,Non-Knox,,FALSE,SM-E426B
+Galaxy F52 5G,smartphone,Non-Knox,,FALSE,SM-E5260
+Galaxy J1 Mini Prime,smartphone,Non-Knox,,FALSE,SM-J106F
+Galaxy J2 (2018),smartphone,Non-Knox,,FALSE,SM-J250N
+Galaxy J3 (2016),smartphone,Non-Knox,,FALSE,SM-J320F
+Galaxy M01,smartphone,Non-Knox,,FALSE,SM-M015G
+Galaxy M01,smartphone,Non-Knox,,FALSE,SM-M015F
+Galaxy M10,smartphone,Non-Knox,,FALSE,SM-M105F
+Galaxy M10,smartphone,Non-Knox,,FALSE,SM-M105G
+Galaxy M10,smartphone,Non-Knox,,FALSE,SM-M105M
+Galaxy M10,smartphone,Non-Knox,,FALSE,SM-M105Y
+Galaxy M11,smartphone,Non-Knox,,FALSE,SM-M115M
+Galaxy M11,smartphone,Non-Knox,,FALSE,SM-M115F
+Galaxy M20,smartphone,Non-Knox,,FALSE,SM-M205F
+Galaxy M20,smartphone,Non-Knox,,FALSE,SM-M205FN
+Galaxy M20,smartphone,Non-Knox,,FALSE,SM-M205G
+Galaxy M20,smartphone,Non-Knox,,FALSE,SM-M205M
+Galaxy M20,smartphone,Non-Knox,,FALSE,SM-M205N
+Galaxy M21,smartphone,Non-Knox,,FALSE,SM-M215F
+Galaxy M21 (2021),smartphone,Non-Knox,,FALSE,SM-M215G
+Galaxy M30,smartphone,Non-Knox,,FALSE,SM-M305F
+Galaxy M30,smartphone,Non-Knox,,FALSE,SM-M305M
+Galaxy M30s,smartphone,Non-Knox,,FALSE,SM-M3070
+Galaxy M30s,smartphone,Non-Knox,,FALSE,SM-M307F
+Galaxy M30s,smartphone,Non-Knox,,FALSE,SM-M307FN
+Galaxy M31,smartphone,Non-Knox,,FALSE,SM-M315F
+Galaxy M31,smartphone,Non-Knox,,FALSE,SM-F415F
+Galaxy M40,smartphone,Non-Knox,,FALSE,SM-M405F
+Galaxy On5 (2015),smartphone,Non-Knox,,FALSE,SM-G550FY
+Galaxy XCover FieldPro,smartphone,Knox,3.6,FALSE,SM-G889YB
+Galaxy A6,smartphone,Knox,3.5,FALSE,SM-A600FN
+Galaxy A6,smartphone,Knox,3.5,FALSE,SM-A600F
+Galaxy A6,smartphone,Knox,3.5,FALSE,SM-A600G
+Galaxy A6,smartphone,Knox,3.5,FALSE,SM-A600GN
+Galaxy A6,smartphone,Knox,3.5,FALSE,SM-A600N
+Galaxy A6,smartphone,Knox,3.5,FALSE,SM-A600P
+Galaxy A6,smartphone,Knox,3.5,FALSE,SM-A600A
+Galaxy A6,smartphone,Knox,3.5,FALSE,SM-A600AZ
+Galaxy A6,smartphone,Knox,3.5,FALSE,SM-A600T
+Galaxy A6,smartphone,Knox,3.5,FALSE,SM-A600T1
+Galaxy A6,smartphone,Knox,3.5,FALSE,SM-A600U
+Galaxy A6+,smartphone,Knox,3.5,FALSE,SM-A605FN
+Galaxy A6+,smartphone,Knox,3.5,FALSE,SM-A6050
+Galaxy A6+,smartphone,Knox,3.5,FALSE,SM-A605F
+Galaxy A6+,smartphone,Knox,3.5,FALSE,SM-A605G
+Galaxy A6+,smartphone,Knox,3.5,FALSE,SM-A605GN
+Galaxy A6+,smartphone,Knox,3.5,FALSE,SM-A605K
+Galaxy A6+,smartphone,Knox,3.5,FALSE,SM-A6058
+Galaxy A7 (2018),smartphone,Knox,3.5,FALSE,SM-A750F
+Galaxy A7 (2018),smartphone,Knox,3.5,FALSE,SM-A750FN
+Galaxy A7 (2018),smartphone,Knox,3.5,FALSE,SM-A750G
+Galaxy A7 (2018),smartphone,Knox,3.5,FALSE,SM-A750GN
+Galaxy A7 (2018),smartphone,Knox,3.5,FALSE,SM-A750N
+Galaxy A7 (2018),smartphone,Knox,3.5,FALSE,SM-A750C
+Galaxy A8 (2018),smartphone,Knox,3.5,FALSE,SC-02L
+Galaxy A8 Star,smartphone,Knox,3.5,FALSE,SM-G8850
+Galaxy A8 Star,smartphone,Knox,3.5,FALSE,SM-G8858
+Galaxy A8 Star,smartphone,Knox,3.5,FALSE,SM-G885F
+Galaxy A8 Star,smartphone,Knox,3.5,FALSE,SM-G885S
+Galaxy A8 Star,smartphone,Knox,3.5,FALSE,SM-G885Y
+Galaxy A8s,smartphone,Knox,3.5,FALSE,SM-G8870
+Galaxy A8s,smartphone,Knox,3.5,FALSE,SM-G887F
+Galaxy A9 (2018),smartphone,Knox,3.5,FALSE,SM-A920F
+Galaxy A9 (2018),smartphone,Knox,3.5,FALSE,SM-A9200
+Galaxy A9 (2018),smartphone,Knox,3.5,FALSE,SM-A920N
+Galaxy A9 Pro,smartphone,Knox,3.5,FALSE,SM-G887N
+Galaxy J4,smartphone,Knox,3.5,FALSE,SM-J400M
+Galaxy J4,smartphone,Knox,3.5,FALSE,SM-J400G
+Galaxy J4,smartphone,Knox,3.5,FALSE,SM-J400F
+Galaxy J4+,smartphone,Knox,3.5,FALSE,SM-J415N
+Galaxy J6,smartphone,Knox,3.5,FALSE,SM-J600F
+Galaxy J6,smartphone,Knox,3.5,FALSE,SM-J600FN
+Galaxy J6,smartphone,Knox,3.5,FALSE,SM-J600G
+Galaxy J6,smartphone,Knox,3.5,FALSE,SM-J600GT
+Galaxy J6,smartphone,Knox,3.5,FALSE,SM-J600GF
+Galaxy J6,smartphone,Knox,3.5,FALSE,SM-J600L
+Galaxy J6,smartphone,Knox,3.5,FALSE,SM-J600N
+Galaxy J6+,smartphone,Knox,3.5,FALSE,SM-J610G
+Galaxy J6+,smartphone,Knox,3.5,FALSE,SM-J610F
+Galaxy J6+,smartphone,Knox,3.5,FALSE,SM-J610FN
+Galaxy J7 Duo,smartphone,Knox,3.5,FALSE,SM-J720F
+Galaxy J7 Duo,smartphone,Knox,3.5,FALSE,SM-J720M
+Galaxy J7 Top,smartphone,Knox,3.5,FALSE,SM-J737S
+Galaxy J8,smartphone,Knox,3.5,FALSE,SM-J810F
+Galaxy J8,smartphone,Knox,3.5,FALSE,SM-J810M
+Galaxy J8,smartphone,Knox,3.5,FALSE,SM-J810Y
+Galaxy J8,smartphone,Knox,3.5,FALSE,SM-J810GF
+Galaxy J8,smartphone,Knox,3.5,FALSE,SM-J810G
+Galaxy S8 Lite,smartphone,Knox,3.5,FALSE,SM-G8750
+W2019,smartphone,Knox,3.5,FALSE,SM-W2019
+Galaxy A30,smartphone,Knox,3.4.1,FALSE,SCV43
+Galaxy A30,smartphone,Knox,3.4.1,FALSE,SCV43-j
+Galaxy A30,smartphone,Knox,3.4.1,FALSE,SCV43-u
+Galaxy Note9,smartphone,Knox,3.4.1,FALSE,SM-N960F
+Galaxy Note9,smartphone,Knox,3.4.1,FALSE,SM-N9600
+Galaxy Note9,smartphone,Knox,3.4.1,FALSE,SM-N960N
+Galaxy Note9,smartphone,Knox,3.4.1,FALSE,SM-N960U
+Galaxy Note9,smartphone,Knox,3.4.1,FALSE,SM-N960W
+Galaxy Note9,smartphone,Knox,3.4.1,FALSE,SM-N960U1
+Galaxy Note9,smartphone,Knox,3.4.1,FALSE,SC-01L
+Galaxy Note9,smartphone,Knox,3.4.1,FALSE,SCV40
+Galaxy S9,smartphone,Knox,3.4.1,FALSE,SM-G9600
+Galaxy S9,smartphone,Knox,3.4.1,FALSE,SM-G9608
+Galaxy S9,smartphone,Knox,3.4.1,FALSE,SM-G960U
+Galaxy S9,smartphone,Knox,3.4.1,FALSE,SM-G960U1
+Galaxy S9,smartphone,Knox,3.4.1,FALSE,SM-G960W
+Galaxy S9,smartphone,Knox,3.4.1,FALSE,SM-G960N
+Galaxy S9,smartphone,Knox,3.4.1,FALSE,SM-G960F
+Galaxy S9,smartphone,Knox,3.4.1,FALSE,SCV38
+Galaxy S9,smartphone,Knox,3.4.1,FALSE,SC-02K
+Galaxy S9+,smartphone,Knox,3.4.1,FALSE,SM-G965F
+Galaxy S9+,smartphone,Knox,3.4.1,FALSE,SM-G965N
+Galaxy S9+,smartphone,Knox,3.4.1,FALSE,SM-G9650
+Galaxy S9+,smartphone,Knox,3.4.1,FALSE,SM-G965U
+Galaxy S9+,smartphone,Knox,3.4.1,FALSE,SM-G965U1
+Galaxy S9+,smartphone,Knox,3.4.1,FALSE,SM-G965W
+Galaxy S9+,smartphone,Knox,3.4.1,FALSE,SCV39
+Galaxy S9+,smartphone,Knox,3.4.1,FALSE,SC-03K
+Galaxy J2 Core,smartphone,Knox,3.4,FALSE,SM-J260A
+Galaxy J2 Core,smartphone,Knox,3.4,FALSE,SM-S260DL
+Galaxy J2 Core,smartphone,Knox,3.4,FALSE,SM-J260AZ
+Galaxy J5 (2017),smartphone,Knox,3.4,FALSE,SM-J530G
+Galaxy J5 (2017),smartphone,Knox,3.4,FALSE,SM-J530GM
+Galaxy J5 (2017),smartphone,Knox,3.4,FALSE,SM-J530K
+Galaxy J5 (2017),smartphone,Knox,3.4,FALSE,SM-J530L
+Galaxy J5 (2017),smartphone,Knox,3.4,FALSE,SM-J530S
+Galaxy J5 (2017),smartphone,Knox,3.4,FALSE,SM-J530Y
+Galaxy J5 (2017),smartphone,Knox,3.4,FALSE,SM-J530YM
+Galaxy J5 (2017),smartphone,Knox,3.4,FALSE,SM-J530F
+Galaxy J5 (2017),smartphone,Knox,3.4,FALSE,SM-J530FM
+Galaxy A7 (2017),smartphone,Knox,3.3,FALSE,SM-A720S
+Galaxy A8 (2018),smartphone,Knox,3.3,FALSE,SM-A530F
+Galaxy A8 (2018),smartphone,Knox,3.3,FALSE,SM-A530N
+Galaxy A8 (2018),smartphone,Knox,3.3,FALSE,SM-A530W
+Galaxy A8+ (2018),smartphone,Knox,3.3,FALSE,SM-A730F
+Galaxy J3 (2017),smartphone,Knox,3.3,FALSE,SM-J330L
+Galaxy J3 (2017),smartphone,Knox,3.3,FALSE,SM-J330N
+Galaxy J3 (2017),smartphone,Knox,3.3,FALSE,SM-J3308
+Galaxy J3 (2017),smartphone,Knox,3.3,FALSE,SM-J330F
+Galaxy J3 (2017),smartphone,Knox,3.3,FALSE,SM-J330FN
+Galaxy J3 (2017),smartphone,Knox,3.3,FALSE,SM-J330G
+Galaxy J3 (2017),smartphone,Knox,3.3,FALSE,SM-J3300
+Galaxy J3 Top,smartphone,Knox,3.3,FALSE,SM-J337P
+Galaxy J3 Top,smartphone,Knox,3.3,FALSE,SM-J337V
+Galaxy J3 Top,smartphone,Knox,3.3,FALSE,SM-J337VPP
+Galaxy J3 Top,smartphone,Knox,3.3,FALSE,SM-J337U
+Galaxy J3 Top,smartphone,Knox,3.3,FALSE,SM-J337W
+Galaxy J3 Top,smartphone,Knox,3.3,FALSE,SM-S357BL
+Galaxy J3 Top,smartphone,Knox,3.3,FALSE,SM-S367VL
+Galaxy J3 Top,smartphone,Knox,3.3,FALSE,SM-J337R4
+Galaxy J3 Top,smartphone,Knox,3.3,FALSE,SM-J337R7
+Galaxy J3 Top,smartphone,Knox,3.3,FALSE,SM-J337A
+Galaxy J4+,smartphone,Knox,3.3,FALSE,SM-J415GN
+Galaxy J4+,smartphone,Knox,3.3,FALSE,SM-J415FN
+Galaxy J4+,smartphone,Knox,3.3,FALSE,SM-J415G
+Galaxy J4+,smartphone,Knox,3.3,FALSE,SM-J415F
+Galaxy J7 (2017),smartphone,Knox,3.3,FALSE,SM-J730K
+Galaxy J7 (2017),smartphone,Knox,3.3,FALSE,SM-J730G
+Galaxy J7 (2017),smartphone,Knox,3.3,FALSE,SM-J730GM
+Galaxy J7 (2017),smartphone,Knox,3.3,FALSE,SM-J730F
+Galaxy J7 (2017),smartphone,Knox,3.3,FALSE,SM-J730FM
+Galaxy J7 Neo,smartphone,Knox,3.3,FALSE,SM-J701F
+Galaxy J7 Neo,smartphone,Knox,3.3,FALSE,SM-J701M
+Galaxy J7 Neo,smartphone,Knox,3.3,FALSE,SM-J701MT
+Galaxy J7 Pop,smartphone,Knox,3.3,FALSE,SM-J727S
+Galaxy J7 Top,smartphone,Knox,3.3,FALSE,SM-J737T
+Galaxy J7 Top,smartphone,Knox,3.3,FALSE,SM-J737V
+Galaxy J7 Top,smartphone,Knox,3.3,FALSE,SM-J737VPP
+Galaxy J7 Top,smartphone,Knox,3.3,FALSE,SM-J737R4
+Galaxy J7 Top,smartphone,Knox,3.3,FALSE,SM-J737U
+Galaxy J7 Top,smartphone,Knox,3.3,FALSE,SM-J737T1
+Galaxy J7 Top,smartphone,Knox,3.3,FALSE,SM-S767VL
+Galaxy J7 Top,smartphone,Knox,3.3,FALSE,SM-S757BL
+Galaxy J7 Top,smartphone,Knox,3.3,FALSE,SM-J737A
+Galaxy J7 Top,smartphone,Knox,3.3,FALSE,SM-J737P
+Galaxy Note FE,smartphone,Knox,3.3,FALSE,SM-N935F
+Galaxy Note FE,smartphone,Knox,3.3,FALSE,SM-N935S
+Galaxy On7 (2018),smartphone,Knox,3.3,FALSE,SM-G611F
+Galaxy On7 (2018),smartphone,Knox,3.3,FALSE,SM-G611K
+Galaxy On7 (2018),smartphone,Knox,3.3,FALSE,SM-G611L
+Galaxy On7 (2018),smartphone,Knox,3.3,FALSE,SM-G611S
+Galaxy On7 (2018),smartphone,Knox,3.3,FALSE,SM-G611FF
+Galaxy On7 (2018),smartphone,Knox,3.3,FALSE,SM-G611M
+Galaxy On7 (2018),smartphone,Knox,3.3,FALSE,SM-G611MT
+Galaxy S8 Active,smartphone,Knox,3.3,FALSE,SM-G892U
+Galaxy S8 Active,smartphone,Knox,3.3,FALSE,SM-G892A
+Galaxy XCover4,smartphone,Knox,3.3,FALSE,SM-G390W
+Galaxy XCover4,smartphone,Knox,3.3,FALSE,SM-G390Y
+Galaxy XCover4,smartphone,Knox,3.3,FALSE,SM-G390F
+W2018,smartphone,Knox,3.3,FALSE,SM-W2018
+Galaxy Note8,smartphone,Knox,3.2.1,FALSE,SM-N950F
+Galaxy Note8,smartphone,Knox,3.2.1,FALSE,SM-N950N
+Galaxy Note8,smartphone,Knox,3.2.1,FALSE,SM-N950U1
+Galaxy Note8,smartphone,Knox,3.2.1,FALSE,SM-N9500
+Galaxy Note8,smartphone,Knox,3.2.1,FALSE,SM-N9508
+Galaxy Note8,smartphone,Knox,3.2.1,FALSE,SM-N950U
+Galaxy Note8,smartphone,Knox,3.2.1,FALSE,SM-N950W
+Galaxy Note8,smartphone,Knox,3.2.1,FALSE,SC-01K
+Galaxy Note8,smartphone,Knox,3.2.1,FALSE,SCV37
+Galaxy S8,smartphone,Knox,3.2.1,FALSE,SM-G950F
+Galaxy S8,smartphone,Knox,3.2.1,FALSE,SM-G950FD
+Galaxy S8,smartphone,Knox,3.2.1,FALSE,SM-G950N
+Galaxy S8,smartphone,Knox,3.2.1,FALSE,SM-G9500
+Galaxy S8,smartphone,Knox,3.2.1,FALSE,SM-G9508
+Galaxy S8,smartphone,Knox,3.2.1,FALSE,SM-G950U
+Galaxy S8,smartphone,Knox,3.2.1,FALSE,SM-G950U1
+Galaxy S8,smartphone,Knox,3.2.1,FALSE,SM-G950W
+Galaxy S8,smartphone,Knox,3.2.1,FALSE,SC-02J
+Galaxy S8,smartphone,Knox,3.2.1,FALSE,SCV36
+Galaxy S8+,smartphone,Knox,3.2.1,FALSE,SM-G955F
+Galaxy S8+,smartphone,Knox,3.2.1,FALSE,SM-G955FD
+Galaxy S8+,smartphone,Knox,3.2.1,FALSE,SM-G955N
+Galaxy S8+,smartphone,Knox,3.2.1,FALSE,SM-G9550
+Galaxy S8+,smartphone,Knox,3.2.1,FALSE,SM-G955U
+Galaxy S8+,smartphone,Knox,3.2.1,FALSE,SM-G955U1
+Galaxy S8+,smartphone,Knox,3.2.1,FALSE,SM-G955W
+Galaxy S8+,smartphone,Knox,3.2.1,FALSE,SC-03J
+Galaxy C8,smartphone,Knox,3.2,FALSE,SM-C7108
+Galaxy C8,smartphone,Knox,3.2,FALSE,SM-C710F
+Galaxy C8,smartphone,Knox,3.2,FALSE,SM-C7100
+Galaxy J2 Core,smartphone,Knox,3.2,FALSE,SM-J260T1
+Galaxy J3 Pop,smartphone,Knox,3.2,FALSE,SM-J327A
+Galaxy J3 Pop,smartphone,Knox,3.2,FALSE,SM-J327R4
+Galaxy J3 Pop,smartphone,Knox,3.2,FALSE,SM-J327R6
+Galaxy J3 Pop,smartphone,Knox,3.2,FALSE,SM-J327R7
+Galaxy J3 Pop,smartphone,Knox,3.2,FALSE,SM-J327U
+Galaxy J3 Pop,smartphone,Knox,3.2,FALSE,SM-J327V
+Galaxy J3 Pop,smartphone,Knox,3.2,FALSE,SM-J327VPP
+Galaxy J3 Pop,smartphone,Knox,3.2,FALSE,SM-J327W
+Galaxy J7 (2016),smartphone,Knox,3.2,FALSE,SM-J710MN
+Galaxy J7 (2016),smartphone,Knox,3.2,FALSE,SM-J710F
+Galaxy J7 (2016),smartphone,Knox,3.2,FALSE,SM-J710FN
+Galaxy J7 (2016),smartphone,Knox,3.2,FALSE,SM-J710GN
+Galaxy J7 (2016),smartphone,Knox,3.2,FALSE,SM-J710K
+Galaxy J7 Max,smartphone,Knox,3.2,FALSE,SM-G615F
+Galaxy J7 Max,smartphone,Knox,3.2,FALSE,SM-G615FU
+Galaxy J7 Pop,smartphone,Knox,3.2,FALSE,SM-J727U
+Galaxy J7 Pop,smartphone,Knox,3.2,FALSE,SM-J727T
+Galaxy J7 Pop,smartphone,Knox,3.2,FALSE,SM-J727T1
+Galaxy J7 Pop,smartphone,Knox,3.2,FALSE,SM-J727V
+Galaxy J7 Pop,smartphone,Knox,3.2,FALSE,SM-J727VPP
+Galaxy J7 Pop,smartphone,Knox,3.2,FALSE,SM-S737TL
+Galaxy J7 Pop,smartphone,Knox,3.2,FALSE,SM-J727A
+Galaxy J7 Pop,smartphone,Knox,3.2,FALSE,SM-J727AZ
+Galaxy J7 Pop,smartphone,Knox,3.2,FALSE,SM-J727P
+Galaxy J7 Pop,smartphone,Knox,3.2,FALSE,SM-J727R4
+Galaxy On5 (2016),smartphone,Knox,3.2,FALSE,SM-G5510
+Galaxy On5 (2016),smartphone,Knox,3.2,FALSE,SM-G5520
+Galaxy On5 (2016),smartphone,Knox,3.2,FALSE,SM-G5528
+Galaxy On7 (2016),smartphone,Knox,3.2,FALSE,SM-G610F
+Galaxy On7 (2016),smartphone,Knox,3.2,FALSE,SM-G610K
+Galaxy On7 (2016),smartphone,Knox,3.2,FALSE,SM-G610L
+Galaxy On7 (2016),smartphone,Knox,3.2,FALSE,SM-G610M
+Galaxy On7 (2016),smartphone,Knox,3.2,FALSE,SM-G610S
+Galaxy A3 (2016),smartphone,Knox,3.1,FALSE,SC-04J
+Galaxy A3 (2017),smartphone,Knox,3.1,FALSE,SM-A320F
+Galaxy A3 (2017),smartphone,Knox,3.1,FALSE,SM-A320FL
+Galaxy A3 (2017),smartphone,Knox,3.1,FALSE,SM-A320Y
+Galaxy A5 (2017),smartphone,Knox,3.1,FALSE,SM-A520F
+Galaxy A5 (2017),smartphone,Knox,3.1,FALSE,SM-A520K
+Galaxy A5 (2017),smartphone,Knox,3.1,FALSE,SM-A520L
+Galaxy A5 (2017),smartphone,Knox,3.1,FALSE,SM-A520S
+Galaxy A5 (2017),smartphone,Knox,3.1,FALSE,SM-A520W
+Galaxy A7 (2017),smartphone,Knox,3.1,FALSE,SM-A720F
+Galaxy A8 (2016),smartphone,Knox,3.1,FALSE,SM-A810F
+Galaxy A8 (2016),smartphone,Knox,3.1,FALSE,SM-A810YZ
+Galaxy A8 (2016),smartphone,Knox,3.1,FALSE,SM-A810S
+Galaxy A9 Pro (2016),smartphone,Knox,3.1,FALSE,SM-A9100
+Galaxy A9 Pro (2016),smartphone,Knox,3.1,FALSE,SM-A910F
+Galaxy C5,smartphone,Knox,3.1,FALSE,SM-C5000
+Galaxy C5 Pro,smartphone,Knox,3.1,FALSE,SM-C5010
+Galaxy C5 Pro,smartphone,Knox,3.1,FALSE,SM-C5018
+Galaxy C7,smartphone,Knox,3.1,FALSE,SM-C7000
+Galaxy C7 Pro,smartphone,Knox,3.1,FALSE,SM-C7010
+Galaxy C7 Pro,smartphone,Knox,3.1,FALSE,SM-C7018
+Galaxy C7 Pro,smartphone,Knox,3.1,FALSE,SM-C701F
+Galaxy C9 Pro,smartphone,Knox,3.1,FALSE,SM-C9000
+Galaxy C9 Pro,smartphone,Knox,3.1,FALSE,SM-C9008
+Galaxy C9 Pro,smartphone,Knox,3.1,FALSE,SM-C900F
+Galaxy C9 Pro,smartphone,Knox,3.1,FALSE,SM-C900Y
+Galaxy J3 Top,smartphone,Knox,3.1,FALSE,SM-J337AZ
+Galaxy J3 Top,smartphone,Knox,3.1,FALSE,SM-J336AZ
+Galaxy J3 Top,smartphone,Knox,3.1,FALSE,SM-J337T
+Galaxy On5 (2016),smartphone,Knox,3.1,FALSE,SM-G570F
+Galaxy On5 (2016),smartphone,Knox,3.1,FALSE,SM-G570M
+Galaxy On5 (2016),smartphone,Knox,3.1,FALSE,SM-G570Y
+Galaxy On7 (2016),smartphone,Knox,3.1,FALSE,SM-G6100
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930F
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930FD
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930K
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930L
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930S
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G9300
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G9308
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930A
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930AZ
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930P
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930R4
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930R6
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930R7
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930T
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930T1
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930V
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930VL
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930W8
+Galaxy S7,smartphone,Knox,3.1,FALSE,SM-G930U
+Galaxy S7 Active,smartphone,Knox,3.1,FALSE,SM-G891A
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G935F
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G935K
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G935L
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G935S
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G9350
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G935A
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G935P
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G935R4
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G935T
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G935U
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G935V
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G935VC
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G935W8
+Galaxy S7 Edge,smartphone,Knox,3.1,FALSE,SM-G935FD
+Samsung Galaxy J5 Prime (2016),smartphone,Knox,3.1,FALSE,SM-G5700
+Galaxy A5 (2015),smartphone,Knox,2.9,FALSE,SM-A5100
+Galaxy A5 (2016),smartphone,Knox,2.9,FALSE,SM-A5108
+Galaxy A7 (2016),smartphone,Knox,2.9,FALSE,SM-A7100
+Galaxy A7 (2016),smartphone,Knox,2.9,FALSE,SM-A7108
+Galaxy Folder 2,smartphone,Knox,2.9,FALSE,SM-G1650
+Galaxy J2 (2018),smartphone,Knox,2.9,FALSE,SM-J250F
+Galaxy J2 (2018),smartphone,Knox,2.9,FALSE,SM-J250G
+Galaxy J2 (2018),smartphone,Knox,2.9,FALSE,SM-J250M
+Galaxy J2 (2018),smartphone,Knox,2.9,FALSE,SM-J250Y
+Galaxy J3 (2016),smartphone,Knox,2.9,FALSE,SM-J320A
+Galaxy J3 (2016),smartphone,Knox,2.9,FALSE,SM-J320AZ
+Galaxy J3 (2016),smartphone,Knox,2.9,FALSE,SM-J320V
+Galaxy J3 (2016),smartphone,Knox,2.9,FALSE,SM-J320W8
+Galaxy J5 (2016),smartphone,Knox,2.9,FALSE,SM-J510F
+Galaxy J5 (2016),smartphone,Knox,2.9,FALSE,SM-J510FN
+Galaxy J5 (2016),smartphone,Knox,2.9,FALSE,SM-J510FQ
+Galaxy J5 (2016),smartphone,Knox,2.9,FALSE,SM-J510GN
+Galaxy J5 (2016),smartphone,Knox,2.9,FALSE,SM-J510H
+Galaxy J5 (2016),smartphone,Knox,2.9,FALSE,SM-J510L
+Galaxy J5 (2016),smartphone,Knox,2.9,FALSE,SM-J510MN
+Galaxy J5 (2016),smartphone,Knox,2.9,FALSE,SM-J510S
+Galaxy On7 (2015),smartphone,Knox,2.9,FALSE,SM-G600S
+Galaxy A3 (2016),smartphone,Knox,2.8,FALSE,SM-A310F
+Galaxy A3 (2016),smartphone,Knox,2.8,FALSE,SM-A310M
+Galaxy A3 (2016),smartphone,Knox,2.8,FALSE,SM-A310N0
+Galaxy A3 (2016),smartphone,Knox,2.8,FALSE,SM-A310Y
+Galaxy A5 (2016),smartphone,Knox,2.8,FALSE,SM-A510F
+Galaxy A5 (2016),smartphone,Knox,2.8,FALSE,SM-A510FD
+Galaxy A5 (2016),smartphone,Knox,2.8,FALSE,SM-A510M
+Galaxy A5 (2016),smartphone,Knox,2.8,FALSE,SM-A510Y
+Galaxy A7 (2016),smartphone,Knox,2.8,FALSE,SM-A710F
+Galaxy A7 (2016),smartphone,Knox,2.8,FALSE,SM-A710FD
+Galaxy A7 (2016),smartphone,Knox,2.8,FALSE,SM-A710K
+Galaxy A7 (2016),smartphone,Knox,2.8,FALSE,SM-A710L
+Galaxy A7 (2016),smartphone,Knox,2.8,FALSE,SM-A710M
+Galaxy A7 (2016),smartphone,Knox,2.8,FALSE,SM-A710S
+Galaxy J7 (2015),smartphone,Knox,2.8,FALSE,SM-J700P
+Galaxy J7 (2015),smartphone,Knox,2.8,FALSE,SM-J700T1
+Galaxy J7 (2015),smartphone,Knox,2.8,FALSE,SM-J700T
+Galaxy On7 (2016),smartphone,Knox,2.8,FALSE,SM-G610Y
+Galaxy S5 Neo,smartphone,Knox,2.8,FALSE,SM-G903W
+Galaxy Tab A Plus 9.7,smartphone,Knox,2.8,FALSE,SM-P555S
+Galaxy J3 Pop,smartphone,Knox,2.7.1,FALSE,SM-J326AZ
+Galaxy J3 Pop,smartphone,Knox,2.7.1,FALSE,SM-J327AZ
+Galaxy J3 Pop,smartphone,Knox,2.7.1,FALSE,SM-J327T
+Galaxy J3 Pop,smartphone,Knox,2.7.1,FALSE,SM-J327T1
+Galaxy J3 Pop,smartphone,Knox,2.7.1,FALSE,SM-S337TL
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N9200
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N9208
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N920A
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N920C
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N920CD
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N920G
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N920I
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N920K
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N920L
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N920P
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N920S
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N920V
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N920W8
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N920T
+Galaxy Note5,smartphone,Knox,2.7.1,FALSE,SM-N920R4
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G920AZ
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G9200
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G9208
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G920A
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G920F
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G920FD
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G920FQ
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G920I
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G920P
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G920T
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G920V
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G920W8
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G920S
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G920R4
+Galaxy S6,smartphone,Knox,2.7.1,FALSE,SM-G9209
+Galaxy S6 Active,smartphone,Knox,2.7.1,FALSE,SM-G890A
+Galaxy S6 edge,smartphone,Knox,2.7.1,FALSE,SM-G9250
+Galaxy S6 edge,smartphone,Knox,2.7.1,FALSE,SM-G925A
+Galaxy S6 edge,smartphone,Knox,2.7.1,FALSE,SM-G925F
+Galaxy S6 edge,smartphone,Knox,2.7.1,FALSE,SM-G925FQ
+Galaxy S6 edge,smartphone,Knox,2.7.1,FALSE,SM-G925I
+Galaxy S6 edge,smartphone,Knox,2.7.1,FALSE,SM-G925T
+Galaxy S6 edge,smartphone,Knox,2.7.1,FALSE,SM-G925V
+Galaxy S6 edge,smartphone,Knox,2.7.1,FALSE,SM-G925W8
+Galaxy S6 edge,smartphone,Knox,2.7.1,FALSE,SM-G925S
+Galaxy S6 edge+,smartphone,Knox,2.7.1,FALSE,SM-G9280
+Galaxy S6 edge+,smartphone,Knox,2.7.1,FALSE,SM-G9287
+Galaxy S6 edge+,smartphone,Knox,2.7.1,FALSE,SM-G9287C
+Galaxy S6 edge+,smartphone,Knox,2.7.1,FALSE,SM-G928A
+Galaxy S6 edge+,smartphone,Knox,2.7.1,FALSE,SM-G928C
+Galaxy S6 edge+,smartphone,Knox,2.7.1,FALSE,SM-G928F
+Galaxy S6 edge+,smartphone,Knox,2.7.1,FALSE,SM-G928G
+Galaxy S6 edge+,smartphone,Knox,2.7.1,FALSE,SM-G928I
+Galaxy S6 edge+,smartphone,Knox,2.7.1,FALSE,SM-G928W8
+Galaxy S6 edge+,smartphone,Knox,2.7.1,FALSE,SM-G928T
+Galaxy S6 edge+,smartphone,Knox,2.7.1,FALSE,SM-G928V
+G9298,smartphone,Knox,2.7,FALSE,SM-G9298
+Galaxy Grand Prime Plus,smartphone,Knox,2.7,FALSE,SM-G532F
+Galaxy Grand Prime Plus,smartphone,Knox,2.7,FALSE,SM-G532G
+Galaxy Grand Prime Plus,smartphone,Knox,2.7,FALSE,SM-G532M
+Galaxy Grand Prime Plus,smartphone,Knox,2.7,FALSE,SM-G532MT
+Galaxy Haechi,smartphone,Knox,2.7,FALSE,SM-G888N0
+Galaxy J3 Pop,smartphone,Knox,2.7,FALSE,SM-J327P
+Galaxy J3 Pop,smartphone,Knox,2.7,FALSE,SM-S327VL
+Galaxy J7 Pop,smartphone,Knox,2.7,FALSE,SM-S727VL
+W2017,smartphone,Knox,2.7,FALSE,SM-W2017
+Galaxy A3 (2015),smartphone,Knox,2.6,FALSE,SM-A300FU
+Galaxy A5 (2015),smartphone,Knox,2.6,FALSE,SM-A500F
+Galaxy A5 (2015),smartphone,Knox,2.6,FALSE,SM-A500FQ
+Galaxy A5 (2015),smartphone,Knox,2.6,FALSE,SM-A500FU
+Galaxy A5 (2015),smartphone,Knox,2.6,FALSE,SM-A500H
+Galaxy A5 (2015),smartphone,Knox,2.6,FALSE,SM-A500HQ
+Galaxy A5 (2015),smartphone,Knox,2.6,FALSE,SM-A500M
+Galaxy A5 (2015),smartphone,Knox,2.6,FALSE,SM-A500Y
+Galaxy A5 (2015),smartphone,Knox,2.6,FALSE,SM-A500G
+Galaxy A7 (2015),smartphone,Knox,2.6,FALSE,SM-A7000
+Galaxy A7 (2015),smartphone,Knox,2.6,FALSE,SM-A700F
+Galaxy A7 (2015),smartphone,Knox,2.6,FALSE,SM-A700FD
+Galaxy A7 (2015),smartphone,Knox,2.6,FALSE,SM-A700FQ
+Galaxy A7 (2015),smartphone,Knox,2.6,FALSE,SM-A7009
+Galaxy A7 (2016),smartphone,Knox,2.6,FALSE,SM-A710Y
+Galaxy A8 (2015),smartphone,Knox,2.6,FALSE,SM-A8000
+Galaxy A8 (2015),smartphone,Knox,2.6,FALSE,SM-A800F
+Galaxy A8 (2015),smartphone,Knox,2.6,FALSE,SM-A800I
+Galaxy A9 (2016),smartphone,Knox,2.6,FALSE,SM-A9000
+Galaxy Folder 2 Dual SIM,smartphone,Knox,2.6,FALSE,SM-G1600
+Galaxy Folder 2 Dual SIM,smartphone,Knox,2.6,FALSE,SM-G160N
+Galaxy Folder 2 Dual SIM,smartphone,Knox,2.6,FALSE,SM-G165N
+Galaxy J1 (2016),smartphone,Knox,2.6,FALSE,SM-J120A
+Galaxy J1 (2016),smartphone,Knox,2.6,FALSE,SM-J120AZ
+Galaxy J1 (2016),smartphone,Knox,2.6,FALSE,SM-J120W
+Galaxy J1 (2016),smartphone,Knox,2.6,FALSE,SM-S120VL
+Galaxy J3 (2016),smartphone,Knox,2.6,FALSE,SM-J320N0
+Galaxy J3 (2016),smartphone,Knox,2.6,FALSE,SM-J320R4
+Galaxy J3 (2016),smartphone,Knox,2.6,FALSE,SM-J320VPP
+Galaxy J3 (2016),smartphone,Knox,2.6,FALSE,SM-S320VL
+Galaxy J5 (2015),smartphone,Knox,2.6,FALSE,SM-J500G
+Galaxy J5 (2015),smartphone,Knox,2.6,FALSE,SM-J500F
+Galaxy J5 (2015),smartphone,Knox,2.6,FALSE,SM-J500FN
+Galaxy J5 (2015),smartphone,Knox,2.6,FALSE,SM-J500H
+Galaxy J5 (2015),smartphone,Knox,2.6,FALSE,SM-J500Y
+Galaxy J5 (2015),smartphone,Knox,2.6,FALSE,SM-J500M
+Galaxy J5 (2016),smartphone,Knox,2.6,FALSE,SM-J5108
+Galaxy J5 (2016),smartphone,Knox,2.6,FALSE,SM-J510UN
+Galaxy J7 (2015),smartphone,Knox,2.6,FALSE,SM-J700H
+Galaxy J7 (2015),smartphone,Knox,2.6,FALSE,SM-J700M
+Galaxy J7 (2015),smartphone,Knox,2.6,FALSE,SM-J700F
+Galaxy J7 (2016),smartphone,Knox,2.6,FALSE,SM-J7108
+Galaxy J7 (2016),smartphone,Knox,2.6,FALSE,SM-J7109
+Galaxy Note Edge,smartphone,Knox,2.6,FALSE,SM-N9150
+Galaxy Note Edge,smartphone,Knox,2.6,FALSE,SM-N915F
+Galaxy Note Edge,smartphone,Knox,2.6,FALSE,SM-N915FY
+Galaxy Note Edge,smartphone,Knox,2.6,FALSE,SM-N915G
+Galaxy Note Edge,smartphone,Knox,2.6,FALSE,SM-N915T
+Galaxy Note4,smartphone,Knox,2.6,FALSE,SM-N9100
+Galaxy Note4,smartphone,Knox,2.6,FALSE,SM-N910C
+Galaxy Note4,smartphone,Knox,2.6,FALSE,SM-N910CQ
+Galaxy Note4,smartphone,Knox,2.6,FALSE,SM-N910F
+Galaxy Note4,smartphone,Knox,2.6,FALSE,SM-N910G
+Galaxy Note4,smartphone,Knox,2.6,FALSE,SM-N910H
+Galaxy Note4,smartphone,Knox,2.6,FALSE,SM-N910U
+Galaxy Note4,smartphone,Knox,2.6,FALSE,SM-N910V
+Galaxy Note4,smartphone,Knox,2.6,FALSE,SM-N910T3
+Galaxy Note4,smartphone,Knox,2.6,FALSE,SM-N910T
+Galaxy Note4,smartphone,Knox,2.6,FALSE,SM-N910A
+Galaxy On5 (2015),smartphone,Knox,2.6,FALSE,SM-G550T1
+Galaxy On5 (2015),smartphone,Knox,2.6,FALSE,SM-S550TL
+Galaxy On7 (2015),smartphone,Knox,2.6,FALSE,SM-G600F
+Galaxy On7 (2015),smartphone,Knox,2.6,FALSE,SM-G600FY
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G900A
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G900F
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G900FQ
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G900H
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G900I
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G900M
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G900MD
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G900V
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G901F
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-S903VL
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G900P
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G900T
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G9008W
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G9009D
+Galaxy S5,smartphone,Knox,2.6,FALSE,SM-G9009W
+Galaxy S5 Active,smartphone,Knox,2.6,FALSE,SM-G870A
+Galaxy S5 Mini,smartphone,Knox,2.6,FALSE,SM-G800F
+Galaxy S5 Mini,smartphone,Knox,2.6,FALSE,SM-G800H
+Galaxy S5 Mini,smartphone,Knox,2.6,FALSE,SM-G800HQ
+Galaxy S5 Mini,smartphone,Knox,2.6,FALSE,SM-G800M
+Galaxy S5 Mini,smartphone,Knox,2.6,FALSE,SM-G800Y
+Galaxy S5 Neo,smartphone,Knox,2.6,FALSE,SM-G903F
+Galaxy S5 Neo,smartphone,Knox,2.6,FALSE,SM-G903M
+Galaxy S6,smartphone,Knox,2.6,FALSE,SM-S907VL
+Galaxy XCover3,smartphone,Knox,2.6,FALSE,SM-G389F
+Galaxy J1 (2016),smartphone,Knox,2.5.1,FALSE,SM-J120F
+Galaxy J1 (2016),smartphone,Knox,2.5.1,FALSE,SM-J120FN
+Galaxy J1 (2016),smartphone,Knox,2.5.1,FALSE,SM-J120G
+Galaxy J1 (2016),smartphone,Knox,2.5.1,FALSE,SM-J120M
+Galaxy J1 (2016),smartphone,Knox,2.5.1,FALSE,SM-J120ZN
+Galaxy J3 (2016),smartphone,Knox,2.5.1,FALSE,SM-J320Y
+Galaxy J3 (2016),smartphone,Knox,2.5.1,FALSE,SM-J320ZN
+Galaxy J3 (2016),smartphone,Knox,2.5.1,FALSE,SM-J320P
+Galaxy J3 (2016),smartphone,Knox,2.5.1,FALSE,SM-J3109
+Galaxy J3 Pro,smartphone,Knox,2.5.1,FALSE,SM-J3110
+Galaxy J3 Pro,smartphone,Knox,2.5.1,FALSE,SM-J3119
+Galaxy J3 Pro,smartphone,Knox,2.5.1,FALSE,SM-J3119S
+W2016,smartphone,Knox,2.5,FALSE,SM-W2016
+G9198,smartphone,Knox,2.4.1,FALSE,SM-G9198
+Galaxy E7,smartphone,Knox,2.4.1,FALSE,SM-E700F
+Galaxy E7,smartphone,Knox,2.4.1,FALSE,SM-E700H
+Galaxy E7,smartphone,Knox,2.4.1,FALSE,SM-E700M
+Galaxy J2 (2015),smartphone,Knox,2.4.1,FALSE,SM-J200BT
+Galaxy J2 (2015),smartphone,Knox,2.4.1,FALSE,SM-J200F
+Galaxy J2 (2015),smartphone,Knox,2.4.1,FALSE,SM-J200G
+Galaxy J2 (2015),smartphone,Knox,2.4.1,FALSE,SM-J200GU
+Galaxy J2 (2015),smartphone,Knox,2.4.1,FALSE,SM-J200M
+Galaxy J2 (2015),smartphone,Knox,2.4.1,FALSE,SM-J200Y
+Galaxy Note3 Neo,smartphone,Knox,2.4.1,FALSE,SM-N750
+Galaxy Note3 Neo,smartphone,Knox,2.4.1,FALSE,SM-N7505
+Galaxy XCover3,smartphone,Knox,2.4.1,FALSE,SM-G388F
+Galaxy A5 (2015),smartphone,Knox,2.4,FALSE,SM-A5000
+Galaxy A7 (2015),smartphone,Knox,2.4,FALSE,SM-A700YD
+Galaxy Core Prime,smartphone,Knox,2.4,FALSE,SM-G360G
+Galaxy Core Prime,smartphone,Knox,2.4,FALSE,SM-G361F
+Galaxy E5,smartphone,Knox,2.4,FALSE,SM-E500H
+Galaxy E5,smartphone,Knox,2.4,FALSE,SM-E500HQ
+Galaxy E5,smartphone,Knox,2.4,FALSE,SM-E500M
+Galaxy Folder LTE,smartphone,Knox,2.4,FALSE,SM-G150N0
+Galaxy Grand Prime,smartphone,Knox,2.4,FALSE,SM-G530BT
+Galaxy Grand Prime,smartphone,Knox,2.4,FALSE,SM-G530FQ
+Galaxy Grand Prime,smartphone,Knox,2.4,FALSE,SM-G530FZ
+Galaxy Grand Prime,smartphone,Knox,2.4,FALSE,SM-G530H
+Galaxy Grand Prime,smartphone,Knox,2.4,FALSE,SM-G530M
+Galaxy Grand Prime,smartphone,Knox,2.4,FALSE,SM-G530W
+Galaxy Grand Prime,smartphone,Knox,2.4,FALSE,SM-G531F
+Galaxy Grand Prime,smartphone,Knox,2.4,FALSE,SM-G531M
+Galaxy J5 (2015),smartphone,Knox,2.4,FALSE,SM-J500N0
+Galaxy J5 (2015),smartphone,Knox,2.4,FALSE,SM-J5008
+Galaxy J7 (2015),smartphone,Knox,2.4,FALSE,SM-J7008
+Galaxy A01 Core,smartphone,AndroidGo,,FALSE,SM-A013F
+Galaxy A01 Core,smartphone,AndroidGo,,FALSE,SM-A013G
+Galaxy A01 Core,smartphone,AndroidGo,,FALSE,SM-M013F
+Galaxy A01 Core,smartphone,AndroidGo,,FALSE,SM-A013M
+Galaxy A2 Core,smartphone,AndroidGo,,FALSE,SM-A260G
+Galaxy A2 Core,smartphone,AndroidGo,,FALSE,SM-A260F
+Galaxy J2 Core,smartphone,AndroidGo,,FALSE,SM-J260M
+Galaxy J2 Core,smartphone,AndroidGo,,FALSE,SM-J260Y
+Galaxy J2 Core,smartphone,AndroidGo,,FALSE,SM-J260G
+Galaxy J2 Core,smartphone,AndroidGo,,FALSE,SM-J260F
+Galaxy J2 Core,smartphone,AndroidGo,,FALSE,SM-J260GU
+Galaxy J2 Core,smartphone,AndroidGo,,FALSE,SM-J260MU
+Galaxy J2 Core,smartphone,AndroidGo,,FALSE,SM-J260FU
+Galaxy J4 Core,smartphone,AndroidGo,,FALSE,SM-J410G
+Galaxy J4 Core,smartphone,AndroidGo,,FALSE,SM-J410F
+Galaxy Tab A7,tablet,Knox,3.8,FALSE,SM-T507
+Galaxy Tab A7,tablet,Knox,3.8,FALSE,SM-T505N
+Galaxy Tab A7,tablet,Knox,3.8,FALSE,SM-T505C
+Galaxy Tab A7,tablet,Knox,3.8,FALSE,SM-T500
+Galaxy Tab A7,tablet,Knox,3.8,FALSE,SM-T505
+Galaxy Tab A7,tablet,Knox,3.8,FALSE,SM-T509
+Galaxy Tab A7 Lite,tablet,Knox,3.8,FALSE,SM-T225N
+Galaxy Tab A7 Lite,tablet,Knox,3.8,FALSE,SM-T225
+Galaxy Tab A7 Lite,tablet,Knox,3.8,FALSE,SM-T220
+Galaxy Tab A7 Lite,tablet,Knox,3.8,FALSE,SM-T225C
+Galaxy Tab A7 Lite,tablet,Knox,3.8,FALSE,SM-T227
+Galaxy Tab Active3,tablet,Knox,3.8,FALSE,SM-T577
+Galaxy Tab Active3,tablet,Knox,3.8,FALSE,SM-T575N
+Galaxy Tab Active3,tablet,Knox,3.8,FALSE,SM-T570
+Galaxy Tab Active3,tablet,Knox,3.8,FALSE,SM-T575
+Galaxy Tab Active3,tablet,Knox,3.8,TRUE,SM-T577U
+Galaxy Tab Active4 Pro,tablet,Knox,3.8,TRUE,SM-T630
+Galaxy Tab Active4 Pro,tablet,Knox,3.8,TRUE,SM-T636B
+Galaxy Tab Active4 Pro,tablet,Knox,3.8,FALSE,SM-T636N
+Galaxy Tab Active4 Pro,tablet,Knox,3.8,FALSE,SM-T638U
+Galaxy Tab Motor,tablet,Knox,3.8,FALSE,SM-T260
+Galaxy Tab S6,tablet,Knox,3.8,FALSE,SM-T860
+Galaxy Tab S6,tablet,Knox,3.8,FALSE,SM-T865
+Galaxy Tab S6,tablet,Knox,3.8,FALSE,SM-T867
+Galaxy Tab S6,tablet,Knox,3.8,FALSE,SM-T867V
+Galaxy Tab S6,tablet,Knox,3.8,FALSE,SM-T865N
+Galaxy Tab S6,tablet,Knox,3.8,FALSE,SM-T867U
+Galaxy Tab S6,tablet,Knox,3.8,FALSE,SM-T867R4
+Galaxy Tab S6 5G,tablet,Knox,3.8,FALSE,SM-T866N
+Galaxy Tab S6 Lite,tablet,Knox,3.8,FALSE,SM-P615
+Galaxy Tab S6 Lite,tablet,Knox,3.8,FALSE,SM-P615N
+Galaxy Tab S6 Lite,tablet,Knox,3.8,FALSE,SM-P617
+Galaxy Tab S6 Lite,tablet,Knox,3.8,FALSE,SM-P615C
+Galaxy Tab S6 Lite,tablet,Knox,3.8,FALSE,SM-P610
+Galaxy Tab S6 Lite,tablet,Knox,3.8,FALSE,SM-P613
+Galaxy Tab S6 Lite,tablet,Knox,3.8,FALSE,SM-P619
+Galaxy Tab S7,tablet,Knox,3.8,TRUE,SM-T875N
+Galaxy Tab S7,tablet,Knox,3.8,TRUE,SM-T875
+Galaxy Tab S7,tablet,Knox,3.8,TRUE,SM-T870
+Galaxy Tab S7,tablet,Knox,3.8,TRUE,SM-T878U
+Galaxy Tab S7 FE,tablet,Knox,3.8,TRUE,SM-T735
+Galaxy Tab S7 FE,tablet,Knox,3.8,TRUE,SM-T735N
+Galaxy Tab S7 FE,tablet,Knox,3.8,FALSE,SM-T737
+Galaxy Tab S7 FE,tablet,Knox,3.8,FALSE,SM-T735C
+Galaxy Tab S7 FE,tablet,Knox,3.8,FALSE,SM-T738U
+Galaxy Tab S7 FE,tablet,Knox,3.8,FALSE,SM-T733
+Galaxy Tab S7 FE 5G,tablet,Knox,3.8,TRUE,SM-T736N
+Galaxy Tab S7 FE 5G,tablet,Knox,3.8,TRUE,SM-T736B
+Galaxy Tab S7+,tablet,Knox,3.8,TRUE,SM-T975N
+Galaxy Tab S7+,tablet,Knox,3.8,TRUE,SM-T976N
+Galaxy Tab S7+,tablet,Knox,3.8,TRUE,SM-T975
+Galaxy Tab S7+,tablet,Knox,3.8,TRUE,SM-T976B
+Galaxy Tab S7+,tablet,Knox,3.8,TRUE,SM-T970
+Galaxy Tab S7+,tablet,Knox,3.8,TRUE,SM-T978U
+Galaxy Tab S8,tablet,Knox,3.8,TRUE,SM-X706B
+Galaxy Tab S8,tablet,Knox,3.8,TRUE,SM-X706N
+Galaxy Tab S8,tablet,Knox,3.8,FALSE,SM-X706C
+Galaxy Tab S8,tablet,Knox,3.8,FALSE,SM-X700
+Galaxy Tab S8 Ultra,tablet,Knox,3.8,FALSE,SM-X906C
+Galaxy Tab S8 Ultra,tablet,Knox,3.8,FALSE,SM-X900
+Galaxy Tab S8 Ultra,tablet,Knox,3.8,TRUE,SM-X906B
+Galaxy Tab S8 Ultra,tablet,Knox,3.8,TRUE,SM-X906N
+Galaxy Tab S8+,tablet,Knox,3.8,FALSE,SM-X806C
+Galaxy Tab S8+,tablet,Knox,3.8,FALSE,SM-X800
+Galaxy Tab S8+,tablet,Knox,3.8,FALSE,SM-X806E
+Galaxy Tab S8+,tablet,Knox,3.8,TRUE,SM-X806B
+Galaxy Tab S8+,tablet,Knox,3.8,TRUE,SM-X806N
+Galaxy Tab S8+,tablet,Knox,3.8,TRUE,SM-X808U
+Galaxy Tab Active Pro,tablet,Knox,3.7.1,FALSE,SM-T545
+Galaxy Tab Active Pro,tablet,Knox,3.7.1,FALSE,SM-T540
+Galaxy Tab Active Pro,tablet,Knox,3.7.1,FALSE,SM-T547
+Galaxy Tab Active Pro,tablet,Knox,3.7.1,FALSE,SM-T547U
+Galaxy Tab A 10.1 (2019),tablet,Knox,3.7,FALSE,SM-T510
+Galaxy Tab A 10.1 (2019),tablet,Knox,3.7,FALSE,SM-T515
+Galaxy Tab A 10.1 (2019),tablet,Knox,3.7,FALSE,SM-T517
+Galaxy Tab A 10.1 (2019),tablet,Knox,3.7,FALSE,SM-T515N
+Galaxy Tab A 10.1 (2019),tablet,Knox,3.7,FALSE,SM-T517P
+Galaxy Tab A 8,tablet,Knox,3.7,FALSE,SM-X205
+Galaxy Tab A 8,tablet,Knox,3.7,FALSE,SM-X205C
+Galaxy Tab A 8,tablet,Knox,3.7,FALSE,SM-X200
+Galaxy Tab A 8,tablet,Knox,3.7,FALSE,SM-X205N
+Galaxy Tab A 8 Plus (2019),tablet,Knox,3.7,FALSE,SM-P200
+Galaxy Tab A 8.4 (2020),tablet,Knox,3.7,FALSE,SM-T307U
+"Galaxy Tab A Plus 8"" (2019)",tablet,Knox,3.7,FALSE,SM-P205
+Galaxy Tab A7,tablet,Knox,3.7,FALSE,SM-T503
+Galaxy Tab A7 Lite,tablet,Knox,3.7,FALSE,SM-T227U
+Galaxy Tab A8,tablet,Knox,3.7,FALSE,SM-X207
+Galaxy Tab S5e,tablet,Knox,3.7,FALSE,SM-T725N
+Galaxy Tab S5e,tablet,Knox,3.7,FALSE,SM-T727A
+Galaxy Tab S5e,tablet,Knox,3.7,FALSE,SM-T727
+Galaxy Tab S5e,tablet,Knox,3.7,FALSE,SM-T720
+Galaxy Tab S5e,tablet,Knox,3.7,FALSE,SM-T725
+Galaxy Tab S5e,tablet,Knox,3.7,FALSE,SM-T725C
+Galaxy Tab S5e,tablet,Knox,3.7,FALSE,SM-T727V
+Galaxy Tab S5e,tablet,Knox,3.7,FALSE,SM-T727U
+Galaxy Tab S5e,tablet,Knox,3.7,FALSE,SM-T727R4
+Galaxy Tab S7 FE,tablet,Knox,3.7,FALSE,SM-T730
+Galaxy A01,tablet,Non-Knox,,FALSE,SM-S111DL
+Galaxy A01,tablet,Non-Knox,,FALSE,SM-A015V
+Galaxy A01,tablet,Non-Knox,,FALSE,SM-A015U1
+Galaxy A01,tablet,Non-Knox,,FALSE,SM-A015U
+Galaxy A01,tablet,Non-Knox,,FALSE,SM-A015T1
+Galaxy A01,tablet,Non-Knox,,FALSE,SM-A015AZ
+Galaxy A01,tablet,Non-Knox,,FALSE,SM-A015A
+Galaxy A01,tablet,Non-Knox,,FALSE,SM-A015F
+Galaxy A01,tablet,Non-Knox,,FALSE,SM-A015G
+Galaxy A01,tablet,Non-Knox,,FALSE,SM-A015M
+Galaxy Tab A 7 (2016),tablet,Non-Knox,,FALSE,SM-T285
+"Galaxy Tab A 8"" (2019)",tablet,Non-Knox,,FALSE,SM-T295N
+"Galaxy Tab A 8"" (2019)",tablet,Non-Knox,,FALSE,SM-T290
+"Galaxy Tab A 8"" (2019)",tablet,Non-Knox,,FALSE,SM-T295
+"Galaxy Tab A 8"" (2019)",tablet,Non-Knox,,FALSE,SM-T295C
+"Galaxy Tab A 8"" (2019)",tablet,Non-Knox,,FALSE,SM-T297
+"Galaxy Tab A 10.5""",tablet,Knox,3.5,FALSE,SM-T595C
+"Galaxy Tab A 10.5""",tablet,Knox,3.5,FALSE,SM-T595N
+"Galaxy Tab A 10.5""",tablet,Knox,3.5,FALSE,SM-T597
+"Galaxy Tab A 10.5""",tablet,Knox,3.5,FALSE,SM-T597V
+"Galaxy Tab A 10.5""",tablet,Knox,3.5,FALSE,SM-T597P
+"Galaxy Tab A 10.5""",tablet,Knox,3.5,FALSE,SM-T597W
+"Galaxy Tab A 10.5""",tablet,Knox,3.5,FALSE,SM-T590
+"Galaxy Tab A 10.5""",tablet,Knox,3.5,FALSE,SM-T595
+Galaxy Tab A 8 (2018),tablet,Knox,3.5,FALSE,SM-T387P
+Galaxy Tab A 8 (2018),tablet,Knox,3.5,FALSE,SM-T387V
+Galaxy Tab A 8 (2018),tablet,Knox,3.5,FALSE,SM-T387AA
+Galaxy Tab A 8 (2018),tablet,Knox,3.5,FALSE,SM-T387T
+Galaxy Tab A 8 (2018),tablet,Knox,3.5,FALSE,SM-T387R4
+"Galaxy Tab A 8.0""",tablet,Knox,3.5,FALSE,SM-T387W
+Galaxy Tab S4,tablet,Knox,3.5,FALSE,SM-T835N
+Galaxy Tab S4,tablet,Knox,3.5,FALSE,SM-T837
+Galaxy Tab S4,tablet,Knox,3.5,FALSE,SM-T830
+Galaxy Tab S4,tablet,Knox,3.5,FALSE,SM-T835
+Galaxy Tab S4,tablet,Knox,3.5,FALSE,SM-T837A
+Galaxy Tab S4,tablet,Knox,3.5,FALSE,SM-T837P
+Galaxy Tab S4,tablet,Knox,3.5,FALSE,SM-T837V
+Galaxy Tab S4,tablet,Knox,3.5,FALSE,SM-T837R4
+Galaxy Tab S4,tablet,Knox,3.5,FALSE,SM-T837T
+Galaxy Tab S4,tablet,Knox,3.5,FALSE,SM-T835C
+Galaxy Tab A 8 (2017),tablet,Knox,3.3,FALSE,SM-T385K
+Galaxy Tab A 8 (2017),tablet,Knox,3.3,FALSE,SM-T385L
+Galaxy Tab A 8 (2017),tablet,Knox,3.3,FALSE,SM-T385M
+Galaxy Tab A 8 (2017),tablet,Knox,3.3,FALSE,SM-T385S
+Galaxy Tab A 8 (2017),tablet,Knox,3.3,FALSE,SM-T380
+Galaxy Tab A 8 (2017),tablet,Knox,3.3,FALSE,SM-T385
+Galaxy Tab A 8 (2018),tablet,Knox,3.3,FALSE,SM-T387VK
+Galaxy Tab Active2,tablet,Knox,3.3,FALSE,SM-T395
+Galaxy Tab Active2,tablet,Knox,3.3,FALSE,SM-T395N
+Galaxy Tab Active2,tablet,Knox,3.3,FALSE,SM-T397U
+Galaxy Tab Active2,tablet,Knox,3.3,FALSE,SM-T390
+Galaxy Tab S3,tablet,Knox,3.3,FALSE,SM-T825C
+Galaxy Tab S3,tablet,Knox,3.3,FALSE,SM-T825Y
+Galaxy Tab S3,tablet,Knox,3.3,FALSE,SM-T827
+Galaxy Tab S3,tablet,Knox,3.3,FALSE,SM-T827V
+Galaxy Tab S3,tablet,Knox,3.3,FALSE,SM-T827R4
+Galaxy Tab S3,tablet,Knox,3.3,FALSE,SM-T820
+Galaxy Tab S3,tablet,Knox,3.3,FALSE,SM-T825N0
+Galaxy Tab S3,tablet,Knox,3.3,FALSE,SM-T825
+Galaxy Tab A 10.1 (2016),tablet,Knox,3.2,FALSE,SM-T580
+Galaxy Tab A 10.1 (2016),tablet,Knox,3.2,FALSE,SM-T585
+Galaxy Tab A 10.1 (2016),tablet,Knox,3.2,FALSE,SM-T585C
+Galaxy Tab A 10.1 (2016),tablet,Knox,3.2,FALSE,SM-T585N0
+Galaxy Tab A 10.1 (2016),tablet,Knox,3.2,FALSE,SM-T587
+Galaxy Tab A 10.1 (2016),tablet,Knox,3.2,FALSE,SM-T587P
+Galaxy Tab A 10.1 Plus (2016),tablet,Knox,3.2,FALSE,SM-P580
+Galaxy Tab A 10.1 Plus (2016),tablet,Knox,3.2,FALSE,SM-P585
+Galaxy Tab A 10.1 Plus (2016),tablet,Knox,3.2,FALSE,SM-P585M
+Galaxy Tab A 10.1 Plus (2016),tablet,Knox,3.2,FALSE,SM-P585N0
+Galaxy Tab A 10.1 Plus (2016),tablet,Knox,3.2,FALSE,SM-P585Y
+Galaxy Tab A 10.1 Plus (2016),tablet,Knox,3.2,FALSE,SM-P587
+"Galaxy Tab A 10.1"" w/ S-Pen",tablet,Knox,3.2,FALSE,SM-P583
+"Galaxy Tab A 10.1"" w/ S-Pen",tablet,Knox,3.2,FALSE,SM-P588C
+Galaxy Tab A 8 (2017),tablet,Knox,3.2,FALSE,SM-T380C
+Galaxy Tab A 8 (2017),tablet,Knox,3.2,FALSE,SM-T385C
+"Galaxy Tab E 8.0""",tablet,Knox,3.2,FALSE,SM-T378V
+Galaxy View2,tablet,Knox,3.2,FALSE,SM-T927A
+Galaxy Tab A 10.1 (2016),tablet,Knox,3.1,FALSE,SM-T583
+Galaxy Tab4 7,tablet,Knox,3.1,FALSE,SM-T230NZ
+"Galaxy Tab A 8"" w/ S-Pen",tablet,Knox,2.8,FALSE,SM-P355
+"Galaxy Tab A 8"" w/ S-Pen",tablet,Knox,2.8,FALSE,SM-P355M
+"Galaxy Tab A 8.0""",tablet,Knox,2.8,FALSE,SM-T355
+"Galaxy Tab A 8.0""",tablet,Knox,2.8,FALSE,SM-T355Y
+"Galaxy Tab A 8.0""",tablet,Knox,2.8,FALSE,SM-T350
+"Galaxy Tab A 9.7""",tablet,Knox,2.8,FALSE,SM-T555
+"Galaxy Tab A 9.7""",tablet,Knox,2.8,FALSE,SM-T550
+"Galaxy Tab A 9.7"" w/ S-Pen",tablet,Knox,2.8,FALSE,SM-P555
+"Galaxy Tab A 9.7"" w/ S-Pen",tablet,Knox,2.8,FALSE,SM-P555M
+"Galaxy Tab A 9.7"" w/ S-Pen",tablet,Knox,2.8,FALSE,SM-P550
+Galaxy Tab Active2,tablet,Knox,2.8,FALSE,SM-T395C
+"Galaxy Tab E 8.0""",tablet,Knox,2.8,FALSE,SM-T377A
+"Galaxy Tab E 8.0""",tablet,Knox,2.8,FALSE,SM-T377P
+"Galaxy Tab E 8.0""",tablet,Knox,2.8,FALSE,SM-T377R4
+"Galaxy Tab E 8.0""",tablet,Knox,2.8,FALSE,SM-T377T
+"Galaxy Tab E 8.0""",tablet,Knox,2.8,FALSE,SM-T377V
+"Galaxy Tab E 8.0""",tablet,Knox,2.8,FALSE,SM-T377W
+"Galaxy Tab E 9.6""",tablet,Knox,2.8,FALSE,SM-T560NU
+"Galaxy Tab E 9.6""",tablet,Knox,2.8,FALSE,SM-T567V
+"Galaxy Tab S2 8.0""",tablet,Knox,2.7.1,FALSE,SM-T710
+"Galaxy Tab S2 8.0""",tablet,Knox,2.7.1,FALSE,SM-T713
+"Galaxy Tab S2 8.0""",tablet,Knox,2.7.1,FALSE,SM-T715
+"Galaxy Tab S2 8.0""",tablet,Knox,2.7.1,FALSE,SM-T715C
+"Galaxy Tab S2 8.0""",tablet,Knox,2.7.1,FALSE,SM-T715Y
+"Galaxy Tab S2 8.0""",tablet,Knox,2.7.1,FALSE,SM-T719
+"Galaxy Tab S2 8.0""",tablet,Knox,2.7.1,FALSE,SM-T719C
+"Galaxy Tab S2 8.0""",tablet,Knox,2.7.1,FALSE,SM-T719Y
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T810
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T813
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T815
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T815C
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T815N0
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T815Y
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T817
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T817A
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T817P
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T817R4
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T817T
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T817V
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T817W
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T818
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T818A
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T818V
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T818W
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T819
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T819C
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T819Y
+"Galaxy Tab S2 9.7""",tablet,Knox,2.7.1,FALSE,SM-T818T
+"Galaxy Tab A 8"" w/ S-Pen",tablet,Knox,2.6,FALSE,SM-P350
+"Galaxy Tab A 8"" w/ S-Pen",tablet,Knox,2.6,FALSE,SM-P355C
+"Galaxy Tab A 8"" w/ S-Pen",tablet,Knox,2.6,FALSE,SM-P355Y
+"Galaxy Tab A 8.0""",tablet,Knox,2.6,FALSE,SM-T355C
+"Galaxy Tab A 9.7""",tablet,Knox,2.6,FALSE,SM-T555C
+"Galaxy Tab E 8.0""",tablet,Knox,2.6,FALSE,SM-T375L
+"Galaxy Tab E 8.0""",tablet,Knox,2.6,FALSE,SM-T375S
+"Galaxy Tab E 8.0""",tablet,Knox,2.6,FALSE,SM-T378K
+"Galaxy Tab E 8.0""",tablet,Knox,2.6,FALSE,SM-T378L
+"Galaxy Tab E 8.0""",tablet,Knox,2.6,FALSE,SM-T378S
+Galaxy Tab S 10.5,tablet,Knox,2.6,FALSE,SM-T805Y
+"Galaxy Tab S 10.5""",tablet,Knox,2.6,FALSE,SM-T800
+"Galaxy Tab S 10.5""",tablet,Knox,2.6,FALSE,SM-T805
+"Galaxy Tab S 10.5""",tablet,Knox,2.6,FALSE,SM-T805C
+"Galaxy Tab S 10.5""",tablet,Knox,2.6,FALSE,SM-T805M
+"Galaxy Tab S 10.5""",tablet,Knox,2.6,FALSE,SM-T807
+"Galaxy Tab S 10.5""",tablet,Knox,2.6,FALSE,SM-T807P
+"Galaxy Tab S 10.5""",tablet,Knox,2.6,FALSE,SM-T807V
+"Galaxy Tab S 8.4""",tablet,Knox,2.6,FALSE,SM-T700
+"Galaxy Tab S 8.4""",tablet,Knox,2.6,FALSE,SM-T705
+"Galaxy Tab S 8.4""",tablet,Knox,2.6,FALSE,SM-T705C
+"Galaxy Tab S 8.4""",tablet,Knox,2.6,FALSE,SM-T705M
+"Galaxy Tab S 8.4""",tablet,Knox,2.6,FALSE,SM-T705Y
+"Galaxy Tab S 8.4""",tablet,Knox,2.6,FALSE,SM-T707A
+"Galaxy Tab S 8.4""",tablet,Knox,2.6,FALSE,SM-T707V
+"Galaxy Tab4 10.1""",tablet,Knox,2.6,FALSE,SM-T536
+Galaxy Tab4 7,tablet,Knox,2.6,FALSE,SM-T230NW
+Galaxy Tab3 Lite,tablet,Knox,2.5.1,FALSE,SM-T116IR
+Galaxy View,tablet,Knox,2.5.1,FALSE,SM-T670
+Galaxy View,tablet,Knox,2.5.1,FALSE,SM-T677V
+Galaxy Tab Active,tablet,Knox,2.5,FALSE,SM-T360
+Galaxy Tab Active,tablet,Knox,2.5,FALSE,SM-T365
+Galaxy Tab Active,tablet,Knox,2.5,FALSE,SM-T365F0
+Galaxy Tab Active,tablet,Knox,2.5,FALSE,SM-T365M
+Galaxy Tab Active,tablet,Knox,2.5,FALSE,SM-T365Y
+"Galaxy Note 10.1"" (2014 Edition)",tablet,Knox,2.4.1,FALSE,SM-P600
+"Galaxy Note 10.1"" (2014 Edition)",tablet,Knox,2.4.1,FALSE,SM-P601
+"Galaxy Note 10.1"" (2014 Edition)",tablet,Knox,2.4.1,FALSE,SM-P605
+"Galaxy Note 10.1"" (2014 Edition)",tablet,Knox,2.4.1,FALSE,SM-P605V
+"Galaxy Note 10.1"" (2014 Edition)",tablet,Knox,2.4.1,FALSE,SM-P605M
+Galaxy Note Pro 12.2,tablet,Knox,2.4.1,FALSE,SM-P905V
+Galaxy Note Pro 12.2,tablet,Knox,2.4.1,FALSE,SM-P907A
+"Galaxy Tab E 8.0""",tablet,Knox,2.4.1,FALSE,SM-T3777
+"Galaxy Tab Pro 12.2""",tablet,Knox,2.4.1,FALSE,SM-T900
+"Galaxy Tab Pro 12.2""",tablet,Knox,2.4.1,FALSE,SM-T905
+"Galaxy Tab4 10.1""",tablet,Knox,2.4.1,FALSE,SM-T530
+Galaxy Tab4 7,tablet,Knox,2.4.1,FALSE,SM-T235
+Galaxy Tab4 7,tablet,Knox,2.4.1,FALSE,SM-T237P
+"Galaxy Tab A 9.7"" w/ S-Pen",tablet,Knox,2.4,FALSE,SM-P555Y
+"Galaxy Tab4 10.1""",tablet,Knox,2.4,FALSE,SM-T530NU
+"Galaxy Tab4 10.1""",tablet,Knox,2.4,FALSE,SM-T531
+"Galaxy Tab4 10.1""",tablet,Knox,2.4,FALSE,SM-T532
+"Galaxy Tab4 10.1""",tablet,Knox,2.4,FALSE,SM-T535
+"Galaxy Tab4 10.1""",tablet,Knox,2.4,FALSE,SM-T533
+"Galaxy Tab4 8.0""",tablet,Knox,2.4,FALSE,SM-T330
+"Galaxy Tab4 8.0""",tablet,Knox,2.4,FALSE,SM-T330NU
+"Galaxy Tab4 8.0""",tablet,Knox,2.4,FALSE,SM-T331
+"Galaxy Tab4 8.0""",tablet,Knox,2.4,FALSE,SM-T332
+"Galaxy Tab4 8.0""",tablet,Knox,2.4,FALSE,SM-T335
+"Galaxy Tab4 8.0""",tablet,Knox,2.4,FALSE,SM-T337A
+"Galaxy Tab4 8.0""",tablet,Knox,2.4,FALSE,SM-T337T
+"Galaxy Tab4 8.0""",tablet,Knox,2.4,FALSE,SM-T337V
+Gear 360 (2017),wearable,Tizen,,FALSE,SM-R210
+Gear 360 Pro,wearable,Tizen,,FALSE,SM-R260
+Gear Fit2 Pro,wearable,Tizen,,FALSE,SM-R365
+Watch4 40mm,wearable,WearOS,,FALSE,SM-R860
+Watch4 40mm,wearable,WearOS,,FALSE,SM-R865F
+Watch4 40mm,wearable,WearOS,,FALSE,SM-R865U
+Watch4 40mm,wearable,WearOS,,FALSE,SM-R865N
+Watch4 44mm,wearable,WearOS,,FALSE,SM-R870
+Watch4 44mm,wearable,WearOS,,FALSE,SM-R875F
+Watch4 44mm,wearable,WearOS,,FALSE,SM-R875N
+Watch4 44mm,wearable,WearOS,,FALSE,SM-R875U
+Watch4 Classic 42mm,wearable,WearOS,,FALSE,SM-R880
+Watch4 Classic 42mm,wearable,WearOS,,FALSE,SM-R885F
+Watch4 Classic 42mm,wearable,WearOS,,FALSE,SM-R885N
+Watch4 Classic 42mm,wearable,WearOS,,FALSE,SM-R885U
+Watch4 Classic 46mm,wearable,WearOS,,FALSE,SM-R895F
+Watch4 Classic 46mm,wearable,WearOS,,FALSE,SM-R895N
+Watch4 Classic 46mm,wearable,WearOS,,FALSE,SM-R895U
+Watch4 Classic 46mm,wearable,WearOS,,FALSE,SM-R8950
+Watch4 Classic 46mm,wearable,WearOS,,FALSE,SM-R890
+Watch5 40mm,wearable,WearOS,,FALSE,SM-R905N
+Watch5 40mm,wearable,WearOS,,FALSE,SM-R900
+Watch5 40mm,wearable,WearOS,,FALSE,SM-R905U
+Watch5 40mm,wearable,WearOS,,FALSE,SM-R905F
+Watch5 44mm,wearable,WearOS,,FALSE,SM-R915N
+Watch5 44mm,wearable,WearOS,,FALSE,SM-R910
+Watch5 44mm,wearable,WearOS,,FALSE,SM-R9150
+Watch5 44mm,wearable,WearOS,,FALSE,SM-R915U
+Watch5 44mm,wearable,WearOS,,FALSE,SM-R915F
+Watch5 Pro,wearable,WearOS,,FALSE,SM-R925N
+Watch5 Pro,wearable,WearOS,,FALSE,SM-R925U
+Watch5 Pro,wearable,WearOS,,FALSE,SM-R925F
+Watch5 Pro,wearable,WearOS,,FALSE,SM-R920
