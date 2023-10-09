@@ -1,5 +1,4 @@
-jupyter
-pandas==1.3.4
+pandas
 numpy
 PyYAML
 pycountry
