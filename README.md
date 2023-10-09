@@ -63,14 +63,14 @@ We  provide the code used for analysis alongside the results for the complete re
     ```
 3. **Create a Python Virtual Environment:**
    ```bash
-    python3 -m venv Android-Security-Updates-env
+    python -m venv Android-Security-Updates-env
     ```
    ```bash
     source Android-Security-Updates-env/bin/activate
     ```   
 4. **Install the Required Dependencies:**
    ```bash
-    pip3 install -r requirements.txt
+    pip install -r requirements.txt
     ```
 6. **Launch Jupyter Notebook:**
    ```bash
