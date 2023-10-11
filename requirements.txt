@@ -1,10 +1,10 @@
-pandas
+jupyter
+pandas==1.3.4
 numpy
-PyYAML
+PyYAML>=5.4
 pycountry
 matplotlib
 plotly
 tqdm
-requests
 openpyxl
 kaleido

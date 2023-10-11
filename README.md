@@ -3,8 +3,13 @@
 This repository contains the data and code used in our paper, "50 Shades of Support: A Device-Centric Analysis of Android Security Updates".
 
 In the first step, we explain the data collection and preprocessing. In the second step, we provide the code for the analysis and results. Data collected during the first step is shared under the folder [Data](https://github.com/andsec87/Android-Security-Updates/tree/main/Data). For the reproducibility of the results, you can directly start from the second step. 
+# README
 
-# 1. Data Collection and Preprocessing
+
+Details about this great section are here.
+
+
+# [1. Data Collection and Preprocessing](#1-data-collection-and-preprocessing)
 
 The dataset in the paper is collected from official and open-source sources. We put significant efforts into the collection of the dataset, which we offer to the research community for use.
 
@@ -40,8 +45,8 @@ The dataset in the paper is collected from official and open-source sources. We 
 - **Chipsets**: We gathered the chipset information for the devices from [Samsung's website](https://www.samsung.com/us/smartphones/galaxy-s22-ultra/buy/galaxy-s22-ultra-128gb-unlocked-sm-s908uzkaxaa/) and augmented with data from partners like [carriers](https://www.t-mobile.com/cell-phone/samsung-galaxy-s22) for older devices. The chipset information for all devices can be found [chipsets.xlsx](./Data/chipsets.xlsx).
 
 
-# 2. Analysis and Results
 
+# [2. Analysis and Results](#2-analysis-and-results)
 
 We  provide the code used for analysis alongside the results for the complete reproducibility of our study.
 
@@ -49,62 +54,85 @@ We  provide the code used for analysis alongside the results for the complete re
 
 1. **Clone the Repository:**
    ```bash
+   # git clone the repo
    git clone https://github.com/andsec87/Android-Security-Updates.git
-   ```
-   ```bash
+   # go to directory
    cd Android-Security-Updates
    ```
 2. **Run the CVE Download Script:**
     ```bash
+    # make the script executable (if downloaded manually)
     chmod +x Code/download_cve.sh
-    ``` 
-    ```bash
+    #to download CVE details from NIST database under Data/NIST-all/
     ./Code/download_cve.sh
     ```
 3. **Create a Python Virtual Environment:**
-   ```bash
+    ```bash
+    # create a Python virtual environment (optional)
     python -m venv Android-Security-Updates-env
-    ```
-   ```bash
+    # activate env (optional)
     source Android-Security-Updates-env/bin/activate
     ```   
 4. **Install the Required Dependencies:**
    ```bash
-    pip install -r requirements.txt
-    ```
+   # install the dependencies
+   pip install -r requirements.txt
+   ```
 6. **Launch Jupyter Notebook:**
    ```bash
-    jupyter notebook
-    ```
+   jupyter notebook
+   ```
+
+## Reproducibility Instructions
 
 Our code consists of five sets of experiments:
 
- 1. [Support-Lists](./Code/1-Support-Lists.ipynb): This code includes the statistics about the support lists given in Section 3B. It is also used to extract the support type and support timeline of the devices, which is later used for evaluating the impact of the support type presented in Section 6A. 
- 2. [Supported-Period](./Code/2-Part-1-Supported-Period.ipynb): This code includes the dataset stats reported in Section 3A and the results of the supported period analysis given in Section 4A.
- 3. [Unpatched-Analysis](./Code/3-Part-2-Unpatched-Analysis.ipynb): This code includes the results of unpatched device analysis given in Section 4B - Part-2: Unsupported Period. 
- 4. [Factor-Analysis](./Code/4-Factor-Analysis.ipynb): This code includes the results for the impacting factor analysis in Section 5.
- 5. [Key-Issues](./Code/5-Key-Issues.ipynb): The code here includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices given in Section 6.
+ 1. [Support-Lists](./Code/1-Support-Lists.ipynb): This code includes the analysis of support lists provided by OEMs. The support lists are used to extract the support timeline of the devices. For example, Galaxy Fold was in monthly support list from 2019-10-08 to 2022-11-04 and it is in quarterly support list since then. 
+  - Usage in the Paper: The statistics about the support lists given in Section 3B. It is also used to extract the support type (e.g., monthly), which is later used for evaluating the impact of the support type presented in Section 6A  in the paper. 
+ 
+ 2. [Supported-Period](./Code/2-Part-1-Supported-Period.ipynb): This code includes the analysis of the supported devices. Since the support behavior varies between the OEMs, in this section, we use the full support duration of the devices. 
+  - Usage in the Paper: The dataset stats are reported in Section 3A and the results of the supported period analysis given in Section 4A  in the paper.
 
-**Note**: It is recommended to run the scripts in the order provided. However, if changing the sequence, ensure you execute 1 before 4, and 2 before 3, as some data from the former scripts is used for the latter ones.
+ 3. [Unpatched-Analysis](./Code/3-Part-2-Unpatched-Analysis.ipynb): This code includes analysis if unpatched (i.e., unsupported) devices to quantify the risk of using unpatched Android devices. 
+  - Usage in the Paper: The results of unpatched device analysis given in Section 4B - Part-2: Unsupported Period in the paper. 
 
-Most results are displayed in the code given above. Additionally, the resulting figures are automatically saved under the [Figures](https://github.com/andsec87/Android-Security-Updates/tree/main/Results) after running experiments. Finally, some interactive figures are given here: 
+ 4. [Factor-Analysis](./Code/4-Factor-Analysis.ipynb): This code includes the impacting factor analysis. 
+
+  - Usage in the Paper: The results for the impacting factor analysis in Section 5 in the paper.
+
+ 5. [Key-Issues](./Code/5-Key-Issues.ipynb): This code includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices.
+   - Usage in the Paper: The results of key issues analysis is given in Section 6 in the paper.
+
+**Order of Execution**: It is recommended to run the scripts in the order provided. However, if changing the sequence, ensure you execute 1 before 4, and 2 before 3, as some data from the former scripts is used for the latter ones.
+
+**Verification**: 
+
+- Verifying the collected data: One can verify the individual support lists or security updates received by each device using the steps in [Data Collection](#1-data-collection-and-preprocessing). 
+
+- Verifying the numerical results: The code also includes the results displayed after sucessfully running cells. The corresponding sections in the paper are given above. One can verify the results following those sections in the paper together with the code. 
+
+- Verifying the visual results: The resulting figures are automatically saved under the [Figures](https://github.com/andsec87/Android-Security-Updates/tree/main/Results) after running experiments. These figures can be cross-referenced with the ones presented in the paper. Figure 3 and 4 in the paper can be seen in [Supported-Period](./Code/2-Part-1-Supported-Period.ipynb); Figure 5 in the paper can be seen in [Unpatched-Analysis](./Code/3-Part-2-Unpatched-Analysis.ipynb); Figure 6 and 7 as well as Table 2 can be found via running the code in [Factor-Analysis](./Code/4-Factor-Analysis.ipynb). Finally, the key issues we found in the paper in Section 6 and further issues can be re-procued via the code in [Key-Issues](./Code/5-Key-Issues.ipynb). 
+
+
+**Updating and Re-running the Data**: Since in the paper, we can only provide abstract information, one can further inspect the individual results. For example, while we can only report average values, one can plot the distribution graphs and check the extreme values further. Similarly, for a more up-to-date perspective, one can re-run the unpatched analysis considering the CVEs published after our paper's publications to see identify other patterns.  
 
 ### Interactive Support World Heatmaps:
 
-These interactive heatmaps provide a comprehensive overview of Android security support across various timeframes. You can see patterns around the world, or check what's happening in your own country. **Feel free to explore the maps and see how your area compares in Android security support.**
+We also attached additional results interactive figures here. These interactive heatmaps provide a comprehensive overview of Android security support across various timeframes. You can see patterns around the world, or check what's happening in your own country. **Feel free to explore the maps and see how your area compares in Android security support.**
 
-- Monthly Geolocation Count: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_count.html)
-- Monthly Geolocation Duration: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_duration.html)
-- Monthly Geolocation Frequency: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_frequency.html)
-- Monthly Geolocation Delay: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_delay.html)
-- Quarterly Geolocation Count: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_count.html)
-- Quarterly Geolocation Duration: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_duration.html)
-- Quarterly Geolocation Frequency: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_frequency.html)
-- Quarterly Geolocation Delay: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_delay.html)
-- Biannual Geolocation Count: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_count.html)
-- Biannual Geolocation Duration: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_duration.html)
-- Biannual Geolocation Frequency: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_frequency.html)
-- Biannual Geolocation Delay: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_delay.html)
+
+- Monthly Count: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_count.html)
+- Monthly Duration: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_duration.html)
+- Monthly Frequency: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_frequency.html)
+- Monthly Delay: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_monthly_delay.html)
+- Quarterly Count: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_count.html)
+- Quarterly Duration: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_duration.html)
+- Quarterly Frequency: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_frequency.html)
+- Quarterly Delay: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_quarterly_delay.html)
+- Biannual Count: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_count.html)
+- Biannual Duration: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_duration.html)
+- Biannual Frequency: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_frequency.html)
+- Biannual Delay: [View Visualization](https://andsec87.github.io/Android-Security-Updates/Results/InteractiveFigures/geolocation_biannual_delay.html)
 
 
 
