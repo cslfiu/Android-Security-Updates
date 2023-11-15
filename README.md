@@ -111,7 +111,7 @@ Our code consists of five sets of experiments:
 
 - Verifying the numerical results: The code also includes the results displayed after sucessfully running cells. The corresponding sections in the paper are given above. One can verify the results following those sections in the paper together with the code. 
 
-- Verifying the visual results: The resulting figures are automatically saved under the [Figures](https://github.com/andsec87/Android-Security-Updates/tree/main/Results) after running experiments. These figures can be cross-referenced with the ones presented in the paper. Figure 3 and 4 in the paper can be seen in [Supported-Period](./Code/2-Part-1-Supported-Period.ipynb); Figure 5 in the paper can be seen in [Unpatched-Analysis](./Code/3-Part-2-Unpatched-Analysis.ipynb); Figure 6 and 7 as well as Table 2 can be found via running the code in [Factor-Analysis](./Code/4-Factor-Analysis.ipynb). Finally, the key issues we found in the paper in Section 6 and further issues can be re-procued via the code in [Key-Issues](./Code/5-Key-Issues.ipynb). 
+- Verifying the visual results: The resulting figures are automatically saved under the [Figures](https://github.com/andsec87/Android-Security-Updates/tree/main/Results) after running experiments. These figures can be cross-referenced with the ones presented in the paper. Figure 3 and 4 in the paper can be seen in [Supported-Period](./Code/2-Part-1-Supported-Period.ipynb); Figure 5 in the paper can be seen in [Unpatched-Analysis](./Code/3-Part-2-Unpatched-Analysis.ipynb); Figure 6 and 7 as well as Table 2 can be found via running the code in [Factor-Analysis](./Code/4-Factor-Analysis.ipynb). Finally, the key issues we found in the paper in Section 6 and further issues can be re-produced via the code in [Key-Issues](./Code/5-Key-Issues.ipynb). 
 
 
 **Updating and Re-running the Data**: Since in the paper, we can only provide abstract information, one can further inspect the individual results. For example, while we can only report average values, one can plot the distribution graphs and check the extreme values further. Similarly, for a more up-to-date perspective, one can re-run the unpatched analysis considering the CVEs published after our paper's publications to see identify other patterns.  
@@ -140,7 +140,7 @@ We also attached additional results interactive figures here. These interactive 
 
 If you find our work useful, please consider citing our paper. Here is the BibTeX entry for our paper:
 
-```
+```bibtex
 @inproceedings{anon2024fifty,
     title={50 Shades of Support: A Device-Centric Analysis of Android Security Updates},
     author={Author1, Anon and Author2, Anon and Author3, Anon},
