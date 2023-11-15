@@ -1,8 +1,8 @@
 # 50 Shades of Support: A Device-Centric Analysis of Android Security Updates
 
-This repository contains the data and code used in our paper, "50 Shades of Support: A Device-Centric Analysis of Android Security Updates".
+This repository contains the data and code used in our paper, "50 Shades of Support: A Device-Centric Analysis of Android Security Updates", which is accepted for publication at [NDSS 2024](https://www.ndss-symposium.org/ndss2024/).
 
-In the first step, we explain the data collection and preprocessing. In the second step, we provide the code for the analysis and results. Data collected during the first step is shared under the folder [Data](https://github.com/andsec87/Android-Security-Updates/tree/main/Data). For the reproducibility of the results, you can directly start from the second step. 
+In the first step, we explain the data collection and preprocessing. In the second step, we provide the code for the analysis and results. Data collected during the first step is shared under the folder [Data](https://github.com/cslfiu/Android-Security-Updates/tree/main/Data). For the reproducibility of the results, you can directly start from the second step. 
 # README
 
 
@@ -55,11 +55,11 @@ We  provide the code used for analysis alongside the results for the complete re
 1. **Clone the Repository:**
    ```bash
    # git clone the repo
-   git clone https://github.com/andsec87/Android-Security-Updates.git
+   git clone https://github.com/cslfiu/Android-Security-Updates.git
    # go to directory
    cd Android-Security-Updates
    ```
-2. **Run the CVE Download Script:**
+2. **Run the CVE Download Script:** 
     ```bash
     # make the script executable (if downloaded manually)
     chmod +x Code/download_cve.sh
@@ -88,20 +88,20 @@ We  provide the code used for analysis alongside the results for the complete re
 Our code consists of five sets of experiments:
 
  1. [Support-Lists](./Code/1-Support-Lists.ipynb): This code includes the analysis of support lists provided by OEMs. The support lists are used to extract the support timeline of the devices. For example, Galaxy Fold was in monthly support list from 2019-10-08 to 2022-11-04 and it is in quarterly support list since then. 
-  - Usage in the Paper: The statistics about the support lists given in Section 3B. It is also used to extract the support type (e.g., monthly), which is later used for evaluating the impact of the support type presented in Section 6A  in the paper. 
+  - Usage in the Paper: The statistics about the support lists are given in Section 3B. It is also used to extract the support type (e.g., monthly), which is later used for evaluating the impact of the support type presented in Section 6A  in the paper. 
  
- 2. [Supported-Period](./Code/2-Part-1-Supported-Period.ipynb): This code includes the analysis of the supported devices. Since the support behavior varies between the OEMs, in this section, we use the full support duration of the devices. 
+ 2. [Supported-Period](./Code/2-Part-1-Supported-Period.ipynb): This code includes the analysis of the devices while they are receiving security updates. 
   - Usage in the Paper: The dataset stats are reported in Section 3A and the results of the supported period analysis given in Section 4A  in the paper.
 
- 3. [Unpatched-Analysis](./Code/3-Part-2-Unpatched-Analysis.ipynb): This code includes analysis if unpatched (i.e., unsupported) devices to quantify the risk of using unpatched Android devices. 
-  - Usage in the Paper: The results of unpatched device analysis given in Section 4B - Part-2: Unsupported Period in the paper. 
+ 3. [Unpatched-Analysis](./Code/3-Part-2-Unpatched-Analysis.ipynb): This code includes an analysis of unpatched (i.e., unsupported) devices to quantify the risk of using unpatched Android devices. 
+  - Usage in the Paper: The results of unpatched device analysis given in Section 4B of the paper. 
 
- 4. [Factor-Analysis](./Code/4-Factor-Analysis.ipynb): This code includes the impacting factor analysis. 
+ 4. [Factor-Analysis](./Code/4-Factor-Analysis.ipynb): This code includes the analysis of impacting factors on the availability and timeline of security updates by OEMs.
 
-  - Usage in the Paper: The results for the impacting factor analysis in Section 5 in the paper.
+  - Usage in the Paper: The results for the impacting factor analysis are in Section 5 of the paper.
 
  5. [Key-Issues](./Code/5-Key-Issues.ipynb): This code includes examples of the key issues such as inconsistency examples or discrepancies in AER-certified devices.
-   - Usage in the Paper: The results of key issues analysis is given in Section 6 in the paper.
+   - Usage in the Paper: The results of key issues analysis are given in Section 6 of the paper.
 
 **Order of Execution**: It is recommended to run the scripts in the order provided. However, if changing the sequence, ensure you execute 1 before 4, and 2 before 3, as some data from the former scripts is used for the latter ones.
 
@@ -111,7 +111,12 @@ Our code consists of five sets of experiments:
 
 - Verifying the numerical results: The code also includes the results displayed after sucessfully running cells. The corresponding sections in the paper are given above. One can verify the results following those sections in the paper together with the code. 
 
-- Verifying the visual results: The resulting figures are automatically saved under the [Figures](https://github.com/andsec87/Android-Security-Updates/tree/main/Results) after running experiments. These figures can be cross-referenced with the ones presented in the paper. Figure 3 and 4 in the paper can be seen in [Supported-Period](./Code/2-Part-1-Supported-Period.ipynb); Figure 5 in the paper can be seen in [Unpatched-Analysis](./Code/3-Part-2-Unpatched-Analysis.ipynb); Figure 6 and 7 as well as Table 2 can be found via running the code in [Factor-Analysis](./Code/4-Factor-Analysis.ipynb). Finally, the key issues we found in the paper in Section 6 and further issues can be re-produced via the code in [Key-Issues](./Code/5-Key-Issues.ipynb). 
+- Verifying the visual results: The resulting figures are automatically saved under the [Figures](https://github.com/cslfiu/Android-Security-Updates/tree/main/Results) folder after running experiments. These figures can be cross-referenced with the ones presented in the paper. 
+
+   - Figure 3 and 4 in the paper can be seen in [Supported-Period](./Code/2-Part-1-Supported-Period.ipynb). 
+   - Figure 5 in the paper can be seen in [Unpatched-Analysis](./Code/3-Part-2-Unpatched-Analysis.ipynb). 
+   - Figure 6 and 7 as well as Table 2 can be found via running the code in [Factor-Analysis](./Code/4-Factor-Analysis.ipynb). 
+   - Finally, the key issues we found in the paper in Section 6 and further issues can be re-produced via the code in [Key-Issues](./Code/5-Key-Issues.ipynb). 
 
 
 **Updating and Re-running the Data**: Since in the paper, we can only provide abstract information, one can further inspect the individual results. For example, while we can only report average values, one can plot the distribution graphs and check the extreme values further. Similarly, for a more up-to-date perspective, one can re-run the unpatched analysis considering the CVEs published after our paper's publications to see identify other patterns.  
@@ -138,12 +143,12 @@ We also attached additional results interactive figures here. These interactive 
 
 ## Cite Our Work
 
-If you find our work useful, please consider citing our paper. Here is the BibTeX entry for our paper:
+If you use any material from this repository, please cite the following work::
 
 ```bibtex
-@inproceedings{anon2024fifty,
+@inproceedings{acar2024fifty,
     title={50 Shades of Support: A Device-Centric Analysis of Android Security Updates},
-    author={Author1, Anon and Author2, Anon and Author3, Anon},
+    author={Acar, Abbas and Seray, Güliz Seray and Luques, Esteban and Oz, Harun and Aris, Ahmet and Uluagac, Selcuk},
     booktitle={Network and Distributed System Security Symposium},
     year={2024}
 }
@@ -151,7 +156,7 @@ If you find our work useful, please consider citing our paper. Here is the BibTe
 
 # Contact
 
-Please send an email to andsec87 (at) gmail (dot) com if you have any questions.
+Please send an email to aacar001 (at) fiu (dot) edu if you have any questions.
 
  
 
