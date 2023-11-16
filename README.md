@@ -148,7 +148,7 @@ If you use any material from this repository, please cite the following work::
 ```bibtex
 @inproceedings{acar2024fifty,
     title={50 Shades of Support: A Device-Centric Analysis of Android Security Updates},
-    author={Acar, Abbas and Seray, Güliz Seray and Luques, Esteban and Oz, Harun and Aris, Ahmet and Uluagac, Selcuk},
+    author={Acar, Abbas and Tuncay, Güliz Seray and Luques, Esteban and Oz, Harun and Aris, Ahmet and Uluagac, Selcuk},
     booktitle={Network and Distributed System Security Symposium},
     year={2024}
 }
