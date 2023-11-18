@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory to save the files
-DEST_DIR="./Data/NIST-all"
+DEST_DIR="../Data/NIST-all"
 BASE_URL="https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-"
 CURRENT_YEAR=$(date +"%Y")
 
